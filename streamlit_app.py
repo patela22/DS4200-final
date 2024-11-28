@@ -7,14 +7,13 @@ from wordcloud import WordCloud
 import matplotlib.pyplot as plt
 import seaborn as sns
 
-
 st.title("Interactive Tag Analysis for NEU Colleges")
 
-# Upload CSV file
-uploaded_file = st.file_uploader("Upload your CSV file", type="csv")
-if uploaded_file:
-    # Load your data
-    data = pd.read_csv(uploaded_file)
+# Load CSV file directly
+try:
+    # Provide the file path directly
+    FILE_PATH = 'northeastern_rmp_data_updated.csv'
+    data = pd.read_csv(FILE_PATH)
 
     # Parse Popular Tags and ensure it's a list
     data['Popular Tags'] = data['Popular Tags'].apply(ast.literal_eval)
@@ -64,15 +63,15 @@ if uploaded_file:
     st.altair_chart(tag_chart, use_container_width=True)
     st.altair_chart(comments_chart, use_container_width=True)
 
-
+    # Metrics Heatmap Section
     columns_to_explore = [
-    'Department',
-    'NEU_Colleges',
-    'Average Rating (Out of 5)',
-    'Number of Ratings',
-    'Would Take Again (Percent)',
-    'Level of Difficulty (Out of 5)'
-]
+        'Department',
+        'NEU_Colleges',
+        'Average Rating (Out of 5)',
+        'Number of Ratings',
+        'Would Take Again (Percent)',
+        'Level of Difficulty (Out of 5)'
+    ]
 
     # Melt the data to make it compatible with Altair's interactivity
     melted_data = data.melt(
@@ -145,20 +144,11 @@ if uploaded_file:
 
     st.altair_chart(styled_heatmap, use_container_width=True)
 
-
-    data['Popular Tags'] = data['Popular Tags'].apply(lambda x: ast.literal_eval(x) if isinstance(x, str) else x)
-
-    df = data.drop(columns=['First Name', 'Middle Name', 'Last Name', 'ID', 
-                                'Institution Name', 'NEU_Colleges', 'Institution ID', 
-                                'Number of Ratings', 'Average Rating (Out of 5)', 'Would Take Again (Percent)',
-                                'Level of Difficulty (Out of 5)', 'Reviews'])
-
     # Prepare data for word cloud by extracting Popular Tags
-    all_tags = df['Popular Tags'].tolist()
+    all_tags = data['Popular Tags'].tolist()
 
     # Create a single string of all tags for word cloud input
     all_tags_flat = [tag for sublist in all_tags for tag in (sublist if isinstance(sublist, list) else [sublist])]
-
     tags_string = " ".join(all_tags_flat)
 
     # Generate the word cloud
@@ -172,7 +162,7 @@ if uploaded_file:
     # Display the word cloud in Streamlit
     st.pyplot(fig)
 
-    colleges = data['NEU_Colleges'].unique()
+    # Filter for histogram chart
     filtered_df = data[(data['NEU_Colleges'].isin(colleges)) & (data['Number of Ratings'] >= 3) & (~data['NEU_Colleges'].str.contains('Unknown'))]
 
     dept_selection = alt.selection_point(
@@ -198,29 +188,26 @@ if uploaded_file:
 
     st.altair_chart(hist, use_container_width=True)
 
+    # Scatter plot of Level of Difficulty vs Average Rating
     df_cleaned = data.dropna(subset=['Level of Difficulty (Out of 5)', 'Average Rating (Out of 5)'])
-
     df_cleaned = df_cleaned[(df_cleaned['Number of Ratings'] >= 5) & (~df_cleaned['NEU_Colleges'].str.contains('Unknown'))]
-    plt.figure(figsize=(10, 6))
-    sns.scatterplot(data=data, x='Level of Difficulty (Out of 5)', y='Average Rating (Out of 5)', hue='NEU_Colleges')
 
-    # Labels and title
+    plt.figure(figsize=(10, 6))
+    sns.scatterplot(data=df_cleaned, x='Level of Difficulty (Out of 5)', y='Average Rating (Out of 5)', hue='NEU_Colleges')
     plt.xlabel('Level of Difficulty (Out of 5)')
     plt.ylabel('Average Rating (Out of 5)')
     plt.title('Scatter Plot of Level of Difficulty vs Average Rating with College Hue')
-
     plt.legend(title='Hue Legend')
     st.pyplot()
 
+    # Facet grid for each college
     g = sns.FacetGrid(df_cleaned, col='NEU_Colleges', col_wrap=3, height=4, sharex=True, sharey=True)
     g.map_dataframe(sns.scatterplot, x='Level of Difficulty (Out of 5)', y='Average Rating (Out of 5)')
-
-    # Add labels and title
     g.set_axis_labels('Level of Difficulty (Out of 5)', 'Average Rating (Out of 5)')
     g.set_titles("{col_name}")
     plt.suptitle('Scatter Plot of Level of Difficulty vs Average Rating per College', y=1.05)
     plt.tight_layout()
     st.pyplot()
 
-else:
-    st.write("Please upload a CSV file to get started.")
+except FileNotFoundError:
+    st.error("Data file not found. Please ensure 'northeastern_rmp_data_updated.csv' is in the same directory as this script.")
