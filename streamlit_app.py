@@ -60,5 +60,89 @@ if uploaded_file:
     # Display the charts in Streamlit
     st.altair_chart(tag_chart, use_container_width=True)
     st.altair_chart(comments_chart, use_container_width=True)
+
+
+    columns_to_explore = [
+    'Department',
+    'NEU_Colleges',
+    'Average Rating (Out of 5)',
+    'Number of Ratings',
+    'Would Take Again (Percent)',
+    'Level of Difficulty (Out of 5)'
+]
+
+    # Melt the data to make it compatible with Altair's interactivity
+    melted_data = data.melt(
+        id_vars=['Department', 'NEU_Colleges'],
+        value_vars=columns_to_explore[2:],
+        var_name='Metric',
+        value_name='Value'
+    )
+
+    # Create dropdown menus for college and metrics
+    college_dropdown = alt.binding_select(options=list(melted_data['NEU_Colleges'].dropna().unique()), name='Select College: ')
+    college_selection = alt.selection_single(fields=['NEU_Colleges'], bind=college_dropdown)
+
+    metric_dropdown = alt.binding_select(options=list(melted_data['Metric'].dropna().unique()), name='Select Metric: ')
+    metric_selection = alt.selection_single(fields=['Metric'], bind=metric_dropdown)
+
+    # Build the heatmap
+    heatmap = (
+        alt.Chart(melted_data)
+        .mark_rect()
+        .encode(
+            x=alt.X('Department:N', title='Department', sort='-y'),
+            y=alt.Y('NEU_Colleges:N', title='College'),
+            color=alt.Color('Value:Q', title='Metric Value', scale=alt.Scale(scheme='plasma', domain=[0, 5])),
+            tooltip=[
+                alt.Tooltip('Department', title='Department'),
+                alt.Tooltip('NEU_Colleges', title='College'),
+                alt.Tooltip('Metric', title='Metric'),
+                alt.Tooltip('Value', title='Value', format=".2f")
+            ]
+        )
+        .add_selection(college_selection)
+        .transform_filter(college_selection)
+        .add_selection(metric_selection)
+        .transform_filter(metric_selection)
+        .properties(
+            title={
+                "text": ["Heatmap: Insights on Northeastern Ratings"],
+                "subtitle": ["Visualizing department-level metrics across colleges."],
+                "fontSize": 20,
+                "subtitleFontSize": 15,
+                "color": "darkblue",
+                "subtitleColor": "gray",
+                "anchor": "start"
+            },
+            width=900,
+            height=600
+        )
+    )
+
+    # Add additional styling
+    styled_heatmap = heatmap.configure_title(
+        fontSize=22,
+        anchor='start',
+        color='darkblue'
+    ).configure_axis(
+        labelFontSize=12,
+        titleFontSize=16,
+        labelAngle=45,
+        titleColor='darkblue'
+    ).configure_legend(
+        titleFontSize=16,
+        labelFontSize=14,
+        gradientLength=300,
+        gradientThickness=20,
+        titleColor='darkblue'
+    ).configure_view(
+        strokeWidth=0
+    )
+
+    st.altair_chart(styled_heatmap, use_container_width=True)
+
+    
+
 else:
     st.write("Please upload a CSV file to get started.")
