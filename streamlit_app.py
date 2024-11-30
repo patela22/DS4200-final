@@ -27,7 +27,7 @@ try:
 
     # Dropdown filter for colleges
     colleges = tag_counts['NEU_Colleges'].unique()
-    selected_college = st.selectbox("Select College:", options=colleges)
+    selected_college = st.selectbox("Select College:", options=sorted(colleges))
 
     # Filter data based on selected college
     filtered_tag_counts = tag_counts[tag_counts['NEU_Colleges'] == selected_college]
@@ -201,12 +201,11 @@ try:
     # Add labels and title
     g.set_axis_labels('Level of Difficulty (Out of 5)', 'Average Rating (Out of 5)')
     g.set_titles("{col_name}")
-    plt.suptitle('Scatter Plot of Level of Difficulty vs Average Rating per College', y=1.05)
-    plt.tight_layout()
-    st.pyplot()
+    g.figure.suptitle('Scatter Plot of Level of Difficulty vs Average Rating per College', y=1.05)
+    g.tight_layout()
+    st.pyplot(g)
 
 
-    st.subheader("Sentiment Score vs Average Rating for Professors from Northeastern Colleges")
     with open("public/college_sentiment_analysis.html", "r") as f:
         html_string = f.read()
     components.html(html_string, height=1400, width=900)
