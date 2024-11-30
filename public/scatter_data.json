@@ -1,0 +1,4146 @@
+[
+  {
+    "Sentiment Score": 0.3198785936,
+    "Average Rating (Out of 5)": 4.5,
+    "NEU_Colleges": "College of Social Sciences and Humanities (CSSH)",
+    "First Name": "Mohammad",
+    "Last Name": "Abderrazzaq",
+    "Department": "Arabic"
+  },
+  {
+    "Sentiment Score": 0.0996462231,
+    "Average Rating (Out of 5)": 3.5,
+    "NEU_Colleges": "College of Engineering (COE)",
+    "First Name": "Mehdi",
+    "Last Name": "Abedi",
+    "Department": "Engineering"
+  },
+  {
+    "Sentiment Score": 0.1561771912,
+    "Average Rating (Out of 5)": 4.3,
+    "NEU_Colleges": "College of Social Sciences and Humanities (CSSH)",
+    "First Name": "Max",
+    "Last Name": "Abrahms",
+    "Department": "Political Science"
+  },
+  {
+    "Sentiment Score": 0.2364718397,
+    "Average Rating (Out of 5)": 4.8,
+    "NEU_Colleges": "D’Amore-McKim School of Business (DMSB)",
+    "First Name": "Jaehan",
+    "Last Name": "Ahn",
+    "Department": "Accounting"
+  },
+  {
+    "Sentiment Score": 0.2043414992,
+    "Average Rating (Out of 5)": 3,
+    "NEU_Colleges": "College of Arts, Media, and Design (CAMD)",
+    "First Name": "Sophia",
+    "Last Name": "Ainslie",
+    "Department": "Fine Arts"
+  },
+  {
+    "Sentiment Score": 0.1538394295,
+    "Average Rating (Out of 5)": 3.6,
+    "NEU_Colleges": "College of Professional Studies (CPS)",
+    "First Name": "Tom",
+    "Last Name": "Akbari",
+    "Department": "English"
+  },
+  {
+    "Sentiment Score": 0.1503986936,
+    "Average Rating (Out of 5)": 3.4,
+    "NEU_Colleges": "College of Social Sciences and Humanities (CSSH)",
+    "First Name": "M. Shahid",
+    "Last Name": "Alam",
+    "Department": "Economics"
+  },
+  {
+    "Sentiment Score": 0.2940787822,
+    "Average Rating (Out of 5)": 4.9,
+    "NEU_Colleges": "College of Social Sciences and Humanities (CSSH)",
+    "First Name": "Daniel",
+    "Last Name": "Aldrich",
+    "Department": "Political Science"
+  },
+  {
+    "Sentiment Score": 0.1233931037,
+    "Average Rating (Out of 5)": 3.5,
+    "NEU_Colleges": "College of Social Sciences and Humanities (CSSH)",
+    "First Name": "Neil",
+    "Last Name": "Alper",
+    "Department": "Economics"
+  },
+  {
+    "Sentiment Score": 0.1626084869,
+    "Average Rating (Out of 5)": 2.3,
+    "NEU_Colleges": "College of Science (COS)",
+    "First Name": "George",
+    "Last Name": "Alverson",
+    "Department": "Physics"
+  },
+  {
+    "Sentiment Score": 0.0221383404,
+    "Average Rating (Out of 5)": 2.7,
+    "NEU_Colleges": "D’Amore-McKim School of Business (DMSB)",
+    "First Name": "Richard",
+    "Last Name": "Andersen",
+    "Department": "Entrepreneurship"
+  },
+  {
+    "Sentiment Score": 0.3549768569,
+    "Average Rating (Out of 5)": 4.8,
+    "NEU_Colleges": "College of Arts, Media, and Design (CAMD)",
+    "First Name": "Jim",
+    "Last Name": "Anderson",
+    "Department": "Music"
+  },
+  {
+    "Sentiment Score": 0.2007635098,
+    "Average Rating (Out of 5)": 3.4,
+    "NEU_Colleges": "D’Amore-McKim School of Business (DMSB)",
+    "First Name": "Rae",
+    "Last Name": "Andre",
+    "Department": "Business"
+  },
+  {
+    "Sentiment Score": 0.2126264185,
+    "Average Rating (Out of 5)": 4.2,
+    "NEU_Colleges": "Khoury College of Computer Sciences",
+    "First Name": "Jose",
+    "Last Name": "Annunziato",
+    "Department": "Computer Science"
+  },
+  {
+    "Sentiment Score": 0.1925530088,
+    "Average Rating (Out of 5)": 4.7,
+    "NEU_Colleges": "College of Science (COS)",
+    "First Name": "Mark",
+    "Last Name": "Aparece",
+    "Department": "Chemistry"
+  },
+  {
+    "Sentiment Score": 0.3720740886,
+    "Average Rating (Out of 5)": 4.9,
+    "NEU_Colleges": "College of Social Sciences and Humanities (CSSH)",
+    "First Name": "Arnie",
+    "Last Name": "Arluke",
+    "Department": "Sociology"
+  },
+  {
+    "Sentiment Score": 0.0906703398,
+    "Average Rating (Out of 5)": 3.5,
+    "NEU_Colleges": "College of Arts, Media, and Design (CAMD)",
+    "First Name": "Susan",
+    "Last Name": "Asai",
+    "Department": "Music"
+  },
+  {
+    "Sentiment Score": 0.3115142688,
+    "Average Rating (Out of 5)": 4.7,
+    "NEU_Colleges": "Khoury College of Computer Sciences",
+    "First Name": "Javed",
+    "Last Name": "Aslam",
+    "Department": "Computer Science"
+  },
+  {
+    "Sentiment Score": 0.0090718695,
+    "Average Rating (Out of 5)": 1.9,
+    "NEU_Colleges": "Khoury College of Computer Sciences",
+    "First Name": "Randy",
+    "Last Name": "August",
+    "Department": "Computer Science"
+  },
+  {
+    "Sentiment Score": 0.2184921799,
+    "Average Rating (Out of 5)": 3.7,
+    "NEU_Colleges": "Khoury College of Computer Sciences",
+    "First Name": "Keith",
+    "Last Name": "Bagley",
+    "Department": "Computer Science"
+  },
+  {
+    "Sentiment Score": 0.1397241923,
+    "Average Rating (Out of 5)": 3.5,
+    "NEU_Colleges": "College of Science (COS)",
+    "First Name": "Rekha",
+    "Last Name": "Bai",
+    "Department": "Mathematics"
+  },
+  {
+    "Sentiment Score": 0.1316604913,
+    "Average Rating (Out of 5)": 3.9,
+    "NEU_Colleges": "D’Amore-McKim School of Business (DMSB)",
+    "First Name": "John",
+    "Last Name": "Bai",
+    "Department": "Finance"
+  },
+  {
+    "Sentiment Score": 0.2447776033,
+    "Average Rating (Out of 5)": 4.2,
+    "NEU_Colleges": "College of Science (COS)",
+    "First Name": "Richard",
+    "Last Name": "Bailey",
+    "Department": "Geology"
+  },
+  {
+    "Sentiment Score": 0.2137851038,
+    "Average Rating (Out of 5)": 4.5,
+    "NEU_Colleges": "Bouvé College of Health Sciences",
+    "First Name": "Allison",
+    "Last Name": "Baker",
+    "Department": "Psychology"
+  },
+  {
+    "Sentiment Score": 0.073909799,
+    "Average Rating (Out of 5)": 2.7,
+    "NEU_Colleges": "College of Social Sciences and Humanities (CSSH)",
+    "First Name": "Ilter",
+    "Last Name": "Bakkal",
+    "Department": "Economics"
+  },
+  {
+    "Sentiment Score": 0.1735427032,
+    "Average Rating (Out of 5)": 3.3,
+    "NEU_Colleges": "College of Social Sciences and Humanities (CSSH)",
+    "First Name": "Bridgette",
+    "Last Name": "Baldwin",
+    "Department": "Criminal Justice"
+  },
+  {
+    "Sentiment Score": 0.1373087432,
+    "Average Rating (Out of 5)": 3.5,
+    "NEU_Colleges": "D’Amore-McKim School of Business (DMSB)",
+    "First Name": "Charles",
+    "Last Name": "Bame-Aldred",
+    "Department": "Accounting"
+  },
+  {
+    "Sentiment Score": 0.2226707019,
+    "Average Rating (Out of 5)": 3.9,
+    "NEU_Colleges": "D’Amore-McKim School of Business (DMSB)",
+    "First Name": "Elitsa",
+    "Last Name": "Banalieva",
+    "Department": "Business Administration"
+  },
+  {
+    "Sentiment Score": 0.3337058824,
+    "Average Rating (Out of 5)": 4.2,
+    "NEU_Colleges": "D’Amore-McKim School of Business (DMSB)",
+    "First Name": "Brendan",
+    "Last Name": "Bannister",
+    "Department": "Business"
+  },
+  {
+    "Sentiment Score": 0.1463940533,
+    "Average Rating (Out of 5)": 2.7,
+    "NEU_Colleges": "College of Science (COS)",
+    "First Name": "Emaunuela",
+    "Last Name": "Barberis",
+    "Department": "Physics"
+  },
+  {
+    "Sentiment Score": 0.2445957977,
+    "Average Rating (Out of 5)": 4.4,
+    "NEU_Colleges": "Bouvé College of Health Sciences",
+    "First Name": "Allison",
+    "Last Name": "Bauer",
+    "Department": "Health Science"
+  },
+  {
+    "Sentiment Score": 0.2368081435,
+    "Average Rating (Out of 5)": 3.6,
+    "NEU_Colleges": "College of Science (COS)",
+    "First Name": "Gail",
+    "Last Name": "Begley",
+    "Department": "Biochemistry"
+  },
+  {
+    "Sentiment Score": 0.0599702381,
+    "Average Rating (Out of 5)": 2.4,
+    "NEU_Colleges": "Bouvé College of Health Sciences",
+    "First Name": "Iris",
+    "Last Name": "Berent",
+    "Department": "Psychology"
+  },
+  {
+    "Sentiment Score": 0.0833245962,
+    "Average Rating (Out of 5)": 2.3,
+    "NEU_Colleges": "College of Professional Studies (CPS)",
+    "First Name": "Sam",
+    "Last Name": "Bernstein",
+    "Department": "English"
+  },
+  {
+    "Sentiment Score": 0.207298822,
+    "Average Rating (Out of 5)": 4,
+    "NEU_Colleges": "Bouvé College of Health Sciences",
+    "First Name": "Eugene",
+    "Last Name": "Bernstein",
+    "Department": "Pharmacy"
+  },
+  {
+    "Sentiment Score": 0.3070574549,
+    "Average Rating (Out of 5)": 4.5,
+    "NEU_Colleges": "College of Arts, Media, and Design (CAMD)",
+    "First Name": "Doug",
+    "Last Name": "Bielmeier",
+    "Department": "Music"
+  },
+  {
+    "Sentiment Score": 0.0757807935,
+    "Average Rating (Out of 5)": 2.5,
+    "NEU_Colleges": "Bouvé College of Health Sciences",
+    "First Name": "Reyyan",
+    "Last Name": "Bilge",
+    "Department": "Psychology"
+  },
+  {
+    "Sentiment Score": 0.0577262095,
+    "Average Rating (Out of 5)": 2.5,
+    "NEU_Colleges": "College of Science (COS)",
+    "First Name": "Sandy",
+    "Last Name": "Blank",
+    "Department": "Mathematics"
+  },
+  {
+    "Sentiment Score": 0.2492189634,
+    "Average Rating (Out of 5)": 3.6,
+    "NEU_Colleges": "College of Professional Studies (CPS)",
+    "First Name": "Francis",
+    "Last Name": "Blessington",
+    "Department": "English"
+  },
+  {
+    "Sentiment Score": 0.0823658192,
+    "Average Rating (Out of 5)": 3.3,
+    "NEU_Colleges": "Bouvé College of Health Sciences",
+    "First Name": "Martin",
+    "Last Name": "Block",
+    "Department": "Psychology"
+  },
+  {
+    "Sentiment Score": 0.3348177083,
+    "Average Rating (Out of 5)": 4.7,
+    "NEU_Colleges": "College of Social Sciences and Humanities (CSSH)",
+    "First Name": "Jeb",
+    "Last Name": "Booth",
+    "Department": "Criminal Justice"
+  },
+  {
+    "Sentiment Score": 0.2021233438,
+    "Average Rating (Out of 5)": 4.4,
+    "NEU_Colleges": "College of Social Sciences and Humanities (CSSH)",
+    "First Name": "Natalie",
+    "Last Name": "Bormann",
+    "Department": "Political Science"
+  },
+  {
+    "Sentiment Score": 0.1375704509,
+    "Average Rating (Out of 5)": 3.2,
+    "NEU_Colleges": "Bouvé College of Health Sciences",
+    "First Name": "Alma",
+    "Last Name": "Bournazian",
+    "Department": "Sign Language"
+  },
+  {
+    "Sentiment Score": 0.4429553571,
+    "Average Rating (Out of 5)": 5,
+    "NEU_Colleges": "D’Amore-McKim School of Business (DMSB)",
+    "First Name": "David",
+    "Last Name": "Boyd",
+    "Department": "Business"
+  },
+  {
+    "Sentiment Score": 0.242337037,
+    "Average Rating (Out of 5)": 3.9,
+    "NEU_Colleges": "D’Amore-McKim School of Business (DMSB)",
+    "First Name": "Niki",
+    "Last Name": "Boyson",
+    "Department": "Finance"
+  },
+  {
+    "Sentiment Score": 0.0166550497,
+    "Average Rating (Out of 5)": 2.2,
+    "NEU_Colleges": "College of Science (COS)",
+    "First Name": "Maxim",
+    "Last Name": "Braverman",
+    "Department": "Mathematics"
+  },
+  {
+    "Sentiment Score": 0.1149711934,
+    "Average Rating (Out of 5)": 3.1,
+    "NEU_Colleges": "College of Science (COS)",
+    "First Name": "Mark",
+    "Last Name": "Bridger",
+    "Department": "Mathematics"
+  },
+  {
+    "Sentiment Score": -0.0165226242,
+    "Average Rating (Out of 5)": 1.6,
+    "NEU_Colleges": "College of Social Sciences and Humanities (CSSH)",
+    "First Name": "Oscar",
+    "Last Name": "Brookins",
+    "Department": "Economics"
+  },
+  {
+    "Sentiment Score": 0.1361568144,
+    "Average Rating (Out of 5)": 3.3,
+    "NEU_Colleges": "College of Social Sciences and Humanities (CSSH)",
+    "First Name": "Michael",
+    "Last Name": "Brown",
+    "Department": "Sociology"
+  },
+  {
+    "Sentiment Score": 0.2105480209,
+    "Average Rating (Out of 5)": 4.3,
+    "NEU_Colleges": "College of Social Sciences and Humanities (CSSH)",
+    "First Name": "Colin",
+    "Last Name": "Brown",
+    "Department": "Political Science"
+  },
+  {
+    "Sentiment Score": 0.2497317859,
+    "Average Rating (Out of 5)": 4.4,
+    "NEU_Colleges": "College of Social Sciences and Humanities (CSSH)",
+    "First Name": "María",
+    "Last Name": "Brucato",
+    "Department": "Spanish"
+  },
+  {
+    "Sentiment Score": 0.1801336996,
+    "Average Rating (Out of 5)": 4.6,
+    "NEU_Colleges": "College of Social Sciences and Humanities (CSSH)",
+    "First Name": "Chris",
+    "Last Name": "Bruell",
+    "Department": "Criminal Justice"
+  },
+  {
+    "Sentiment Score": 0.2466300663,
+    "Average Rating (Out of 5)": 4.5,
+    "NEU_Colleges": "D’Amore-McKim School of Business (DMSB)",
+    "First Name": "William",
+    "Last Name": "Bruns",
+    "Department": "Accounting"
+  },
+  {
+    "Sentiment Score": -0.1013000474,
+    "Average Rating (Out of 5)": 1.5,
+    "NEU_Colleges": "College of Engineering (COE)",
+    "First Name": "Kal",
+    "Last Name": "Bugrara",
+    "Department": "Engineering"
+  },
+  {
+    "Sentiment Score": 0.1544835621,
+    "Average Rating (Out of 5)": 3.7,
+    "NEU_Colleges": "College of Science (COS)",
+    "First Name": "Jamie",
+    "Last Name": "Bunce",
+    "Department": "Biology"
+  },
+  {
+    "Sentiment Score": 0.1976403309,
+    "Average Rating (Out of 5)": 3.7,
+    "NEU_Colleges": "College of Social Sciences and Humanities (CSSH)",
+    "First Name": "Jeffrey",
+    "Last Name": "Burds",
+    "Department": "History"
+  },
+  {
+    "Sentiment Score": -0.0881942472,
+    "Average Rating (Out of 5)": 1.2,
+    "NEU_Colleges": "College of Science (COS)",
+    "First Name": "Ki-Young",
+    "Last Name": "Byun",
+    "Department": "Chemistry"
+  },
+  {
+    "Sentiment Score": 0.1374279199,
+    "Average Rating (Out of 5)": 3.7,
+    "NEU_Colleges": "College of Arts, Media, and Design (CAMD)",
+    "First Name": "Kristopher ",
+    "Last Name": "Cannon",
+    "Department": "Media Studies"
+  },
+  {
+    "Sentiment Score": 0.1327879902,
+    "Average Rating (Out of 5)": 3.6,
+    "NEU_Colleges": "College of Social Sciences and Humanities (CSSH)",
+    "First Name": "Justin",
+    "Last Name": "Caouette",
+    "Department": "Philosophy"
+  },
+  {
+    "Sentiment Score": 0.2084522149,
+    "Average Rating (Out of 5)": 4.2,
+    "NEU_Colleges": "College of Arts, Media, and Design (CAMD)",
+    "First Name": "Jonathan",
+    "Last Name": "Carr",
+    "Department": "Theater"
+  },
+  {
+    "Sentiment Score": 0.1942182185,
+    "Average Rating (Out of 5)": 3.3,
+    "NEU_Colleges": "Khoury College of Computer Sciences",
+    "First Name": "John",
+    "Last Name": "Casey",
+    "Department": "Computer Science"
+  },
+  {
+    "Sentiment Score": 0.2695231846,
+    "Average Rating (Out of 5)": 4.8,
+    "NEU_Colleges": "College of Professional Studies (CPS)",
+    "First Name": "Gregory",
+    "Last Name": "Cass",
+    "Department": "English"
+  },
+  {
+    "Sentiment Score": 0.2850020952,
+    "Average Rating (Out of 5)": 4,
+    "NEU_Colleges": "College of Social Sciences and Humanities (CSSH)",
+    "First Name": "Steven",
+    "Last Name": "Catalano",
+    "Department": "Criminal Justice"
+  },
+  {
+    "Sentiment Score": 0.3006568569,
+    "Average Rating (Out of 5)": 4.7,
+    "NEU_Colleges": "College of Social Sciences and Humanities (CSSH)",
+    "First Name": "Jarvis",
+    "Last Name": "Chen",
+    "Department": "Political Science"
+  },
+  {
+    "Sentiment Score": 0.0338707826,
+    "Average Rating (Out of 5)": 2.6,
+    "NEU_Colleges": "D’Amore-McKim School of Business (DMSB)",
+    "First Name": "Paul",
+    "Last Name": "Chiou",
+    "Department": "Finance"
+  },
+  {
+    "Sentiment Score": 0.1801110918,
+    "Average Rating (Out of 5)": 3.5,
+    "NEU_Colleges": "College of Science (COS)",
+    "First Name": "Ken",
+    "Last Name": "Chung",
+    "Department": "Chemistry"
+  },
+  {
+    "Sentiment Score": 0.1952648938,
+    "Average Rating (Out of 5)": 4.2,
+    "NEU_Colleges": "Bouvé College of Health Sciences",
+    "First Name": "Dawn",
+    "Last Name": "Cisewski",
+    "Department": "Psychology"
+  },
+  {
+    "Sentiment Score": -0.0678028028,
+    "Average Rating (Out of 5)": 1.7,
+    "NEU_Colleges": "College of Professional Studies (CPS)",
+    "First Name": "Kalo",
+    "Last Name": "Clarke",
+    "Department": "English"
+  },
+  {
+    "Sentiment Score": 0.0568471178,
+    "Average Rating (Out of 5)": 2.2,
+    "NEU_Colleges": "Khoury College of Computer Sciences",
+    "First Name": "William",
+    "Last Name": "Clinger",
+    "Department": "Computer Science"
+  },
+  {
+    "Sentiment Score": 0.0360890653,
+    "Average Rating (Out of 5)": 3.2,
+    "NEU_Colleges": "Bouvé College of Health Sciences",
+    "First Name": "Dennis",
+    "Last Name": "Cokely",
+    "Department": "Sign Language"
+  },
+  {
+    "Sentiment Score": 0.1798665796,
+    "Average Rating (Out of 5)": 3.9,
+    "NEU_Colleges": "College of Science (COS)",
+    "First Name": "Jennifer",
+    "Last Name": "Cole",
+    "Department": "Geology"
+  },
+  {
+    "Sentiment Score": 0.2084050875,
+    "Average Rating (Out of 5)": 4.2,
+    "NEU_Colleges": "Bouvé College of Health Sciences",
+    "First Name": "C. Randall",
+    "Last Name": "Colvin",
+    "Department": "Psychology"
+  },
+  {
+    "Sentiment Score": 0.2577230047,
+    "Average Rating (Out of 5)": 4.6,
+    "NEU_Colleges": "College of Social Sciences and Humanities (CSSH)",
+    "First Name": "Richard",
+    "Last Name": "Conley",
+    "Department": "International Affairs"
+  },
+  {
+    "Sentiment Score": 0.1211282618,
+    "Average Rating (Out of 5)": 3.2,
+    "NEU_Colleges": "College of Professional Studies (CPS)",
+    "First Name": "Tiffany",
+    "Last Name": "Conroy",
+    "Department": "English"
+  },
+  {
+    "Sentiment Score": 0.2190546319,
+    "Average Rating (Out of 5)": 4.1,
+    "NEU_Colleges": "College of Science (COS)",
+    "First Name": "Jennifer",
+    "Last Name": "Coombs",
+    "Department": "Science"
+  },
+  {
+    "Sentiment Score": 0.1116519983,
+    "Average Rating (Out of 5)": 3.3,
+    "NEU_Colleges": "Khoury College of Computer Sciences",
+    "First Name": "Gene",
+    "Last Name": "Cooperman",
+    "Department": "Computer Science"
+  },
+  {
+    "Sentiment Score": 0.1035497518,
+    "Average Rating (Out of 5)": 3.4,
+    "NEU_Colleges": "D’Amore-McKim School of Business (DMSB)",
+    "First Name": "Michael",
+    "Last Name": "Cottrill",
+    "Department": "Accounting"
+  },
+  {
+    "Sentiment Score": 0.1935297619,
+    "Average Rating (Out of 5)": 4.4,
+    "NEU_Colleges": "College of Social Sciences and Humanities (CSSH)",
+    "First Name": "Robert",
+    "Last Name": "Cross",
+    "Department": "History"
+  },
+  {
+    "Sentiment Score": 0.2355717368,
+    "Average Rating (Out of 5)": 4.4,
+    "NEU_Colleges": "D’Amore-McKim School of Business (DMSB)",
+    "First Name": "Lowell",
+    "Last Name": "D'Souza",
+    "Department": "Finance"
+  },
+  {
+    "Sentiment Score": 0.1409733124,
+    "Average Rating (Out of 5)": 2.7,
+    "NEU_Colleges": "College of Social Sciences and Humanities (CSSH)",
+    "First Name": "Kamran",
+    "Last Name": "Dadkhah",
+    "Department": "Economics"
+  },
+  {
+    "Sentiment Score": 0.0952376768,
+    "Average Rating (Out of 5)": 3,
+    "NEU_Colleges": "College of Professional Studies (CPS)",
+    "First Name": "Elise",
+    "Last Name": "Dallimore",
+    "Department": "Communication"
+  },
+  {
+    "Sentiment Score": 0.1881334569,
+    "Average Rating (Out of 5)": 4.3,
+    "NEU_Colleges": "College of Science (COS)",
+    "First Name": "Kelley",
+    "Last Name": "Danahy",
+    "Department": "Chemistry"
+  },
+  {
+    "Sentiment Score": 0.2135208747,
+    "Average Rating (Out of 5)": 4.2,
+    "NEU_Colleges": "D’Amore-McKim School of Business (DMSB)",
+    "First Name": "Luis",
+    "Last Name": "Dau",
+    "Department": "International Business"
+  },
+  {
+    "Sentiment Score": 0.1748970021,
+    "Average Rating (Out of 5)": 3.3,
+    "NEU_Colleges": "College of Science (COS)",
+    "First Name": "Geoff",
+    "Last Name": "Davies",
+    "Department": "Chemistry"
+  },
+  {
+    "Sentiment Score": 0.089035159,
+    "Average Rating (Out of 5)": 4.3,
+    "NEU_Colleges": "College of Science (COS)",
+    "First Name": "L.",
+    "Last Name": "Day",
+    "Department": "Biology"
+  },
+  {
+    "Sentiment Score": 0.3047651607,
+    "Average Rating (Out of 5)": 4.6,
+    "NEU_Colleges": "College of Social Sciences and Humanities (CSSH)",
+    "First Name": "William",
+    "Last Name": "DeAngelis",
+    "Department": "Philosophy"
+  },
+  {
+    "Sentiment Score": -0.0451175754,
+    "Average Rating (Out of 5)": 2,
+    "NEU_Colleges": "D’Amore-McKim School of Business (DMSB)",
+    "First Name": "Adenekan",
+    "Last Name": "Dedeke",
+    "Department": "Business Administration"
+  },
+  {
+    "Sentiment Score": 0.1991585374,
+    "Average Rating (Out of 5)": 3.7,
+    "NEU_Colleges": "D’Amore-McKim School of Business (DMSB)",
+    "First Name": "Alex",
+    "Last Name": "DePaoli",
+    "Department": "Marketing"
+  },
+  {
+    "Sentiment Score": 0.1155790213,
+    "Average Rating (Out of 5)": 3.5,
+    "NEU_Colleges": "College of Science (COS)",
+    "First Name": "Joseph",
+    "Last Name": "DePasquale",
+    "Department": "Chemistry"
+  },
+  {
+    "Sentiment Score": 0.3136790798,
+    "Average Rating (Out of 5)": 4.8,
+    "NEU_Colleges": "Khoury College of Computer Sciences",
+    "First Name": "Nathaniel",
+    "Last Name": "Derbinsky",
+    "Department": "Computer Science"
+  },
+  {
+    "Sentiment Score": 0.3479025802,
+    "Average Rating (Out of 5)": 4.8,
+    "NEU_Colleges": "College of Professional Studies (CPS)",
+    "First Name": "Joseph",
+    "Last Name": "DeRoche",
+    "Department": "English"
+  },
+  {
+    "Sentiment Score": 0.1565309147,
+    "Average Rating (Out of 5)": 3.1,
+    "NEU_Colleges": "College of Social Sciences and Humanities (CSSH)",
+    "First Name": "James",
+    "Last Name": "Dew",
+    "Department": "Economics"
+  },
+  {
+    "Sentiment Score": 0.1273427375,
+    "Average Rating (Out of 5)": 3.1,
+    "NEU_Colleges": "College of Science (COS)",
+    "First Name": "Alessandra",
+    "Last Name": "Di Credico",
+    "Department": "Physics"
+  },
+  {
+    "Sentiment Score": 0.1192684346,
+    "Average Rating (Out of 5)": 3.4,
+    "NEU_Colleges": "D’Amore-McKim School of Business (DMSB)",
+    "First Name": "Martin",
+    "Last Name": "Dias",
+    "Department": "Management"
+  },
+  {
+    "Sentiment Score": 0.13504118,
+    "Average Rating (Out of 5)": 3.4,
+    "NEU_Colleges": "College of Science (COS)",
+    "First Name": "Paul",
+    "Last Name": "Dimilla",
+    "Department": "Chemistry"
+  },
+  {
+    "Sentiment Score": 0.2329772703,
+    "Average Rating (Out of 5)": 4.4,
+    "NEU_Colleges": "D’Amore-McKim School of Business (DMSB)",
+    "First Name": "Edward",
+    "Last Name": "Dinan",
+    "Department": "Business Administration"
+  },
+  {
+    "Sentiment Score": 0.0767060847,
+    "Average Rating (Out of 5)": 2.5,
+    "NEU_Colleges": "College of Science (COS)",
+    "First Name": "Adam",
+    "Last Name": "Ding",
+    "Department": "Mathematics"
+  },
+  {
+    "Sentiment Score": 0.2870856252,
+    "Average Rating (Out of 5)": 4.8,
+    "NEU_Colleges": "D’Amore-McKim School of Business (DMSB)",
+    "First Name": "Mary Kate",
+    "Last Name": "Dodgson",
+    "Department": "Accounting"
+  },
+  {
+    "Sentiment Score": 0.1409976077,
+    "Average Rating (Out of 5)": 3.8,
+    "NEU_Colleges": "College of Social Sciences and Humanities (CSSH)",
+    "First Name": "John",
+    "Last Name": "Donovan",
+    "Department": "Economics"
+  },
+  {
+    "Sentiment Score": 0.2573530466,
+    "Average Rating (Out of 5)": 4.5,
+    "NEU_Colleges": "College of Science (COS)",
+    "First Name": "Daniel",
+    "Last Name": "Douglass",
+    "Department": "Geology"
+  },
+  {
+    "Sentiment Score": -0.0312706483,
+    "Average Rating (Out of 5)": 2,
+    "NEU_Colleges": "College of Professional Studies (CPS)",
+    "First Name": "Tom",
+    "Last Name": "Downard",
+    "Department": "Communication"
+  },
+  {
+    "Sentiment Score": 0.0873779414,
+    "Average Rating (Out of 5)": 3.3,
+    "NEU_Colleges": "College of Science (COS)",
+    "First Name": "Timothy",
+    "Last Name": "Dransfield",
+    "Department": "Chemistry"
+  },
+  {
+    "Sentiment Score": 0.0015803383,
+    "Average Rating (Out of 5)": 2,
+    "NEU_Colleges": "College of Science (COS)",
+    "First Name": "Stanislav",
+    "Last Name": "Dubrovskiy",
+    "Department": "Mathematics"
+  },
+  {
+    "Sentiment Score": 0.2115107169,
+    "Average Rating (Out of 5)": 4,
+    "NEU_Colleges": "College of Social Sciences and Humanities (CSSH)",
+    "First Name": "Kerry",
+    "Last Name": "Dugan",
+    "Department": "Philosophy"
+  },
+  {
+    "Sentiment Score": 0.3076647745,
+    "Average Rating (Out of 5)": 4.9,
+    "NEU_Colleges": "College of Science (COS)",
+    "First Name": "Evan",
+    "Last Name": "Dummit",
+    "Department": "Mathematics"
+  },
+  {
+    "Sentiment Score": 0.1840448248,
+    "Average Rating (Out of 5)": 4,
+    "NEU_Colleges": "College of Social Sciences and Humanities (CSSH)",
+    "First Name": "Catherine",
+    "Last Name": "Dunand",
+    "Department": "French"
+  },
+  {
+    "Sentiment Score": 0.1508171123,
+    "Average Rating (Out of 5)": 3.9,
+    "NEU_Colleges": "D’Amore-McKim School of Business (DMSB)",
+    "First Name": "Denise",
+    "Last Name": "Dunlap-Hinkler",
+    "Department": "International Business"
+  },
+  {
+    "Sentiment Score": 0.131910828,
+    "Average Rating (Out of 5)": 3.2,
+    "NEU_Colleges": "College of Social Sciences and Humanities (CSSH)",
+    "First Name": "Jill",
+    "Last Name": "Dupree",
+    "Department": "Economics"
+  },
+  {
+    "Sentiment Score": 0.1561462729,
+    "Average Rating (Out of 5)": 3.9,
+    "NEU_Colleges": "College of Arts, Media, and Design (CAMD)",
+    "First Name": "Douglas",
+    "Last Name": "Durant",
+    "Department": "Music"
+  },
+  {
+    "Sentiment Score": 0.0204092971,
+    "Average Rating (Out of 5)": 2.5,
+    "NEU_Colleges": "Khoury College of Computer Sciences",
+    "First Name": "Kathleen",
+    "Last Name": "Durant",
+    "Department": "Computer Science"
+  },
+  {
+    "Sentiment Score": 0.2525233388,
+    "Average Rating (Out of 5)": 4.4,
+    "NEU_Colleges": "College of Social Sciences and Humanities (CSSH)",
+    "First Name": "Alan",
+    "Last Name": "Dyer",
+    "Department": "Economics"
+  },
+  {
+    "Sentiment Score": 0.2348052423,
+    "Average Rating (Out of 5)": 4.2,
+    "NEU_Colleges": "D’Amore-McKim School of Business (DMSB)",
+    "First Name": "Kimberly",
+    "Last Name": "Eddleston",
+    "Department": "Business"
+  },
+  {
+    "Sentiment Score": 0.2332268404,
+    "Average Rating (Out of 5)": 4.2,
+    "NEU_Colleges": "Bouvé College of Health Sciences",
+    "First Name": "Cole",
+    "Last Name": "Eidson",
+    "Department": "Psychology"
+  },
+  {
+    "Sentiment Score": 0.1736458333,
+    "Average Rating (Out of 5)": 3.7,
+    "NEU_Colleges": "College of Science (COS)",
+    "First Name": "Stanley",
+    "Last Name": "Eigen",
+    "Department": "Mathematics"
+  },
+  {
+    "Sentiment Score": 0.1401330532,
+    "Average Rating (Out of 5)": 3.1,
+    "NEU_Colleges": "D’Amore-McKim School of Business (DMSB)",
+    "First Name": "Gunther",
+    "Last Name": "Elias",
+    "Department": "Business"
+  },
+  {
+    "Sentiment Score": 0.4395819015,
+    "Average Rating (Out of 5)": 5,
+    "NEU_Colleges": "College of Social Sciences and Humanities (CSSH)",
+    "First Name": "Simone",
+    "Last Name": "Elias",
+    "Department": "Linguistics"
+  },
+  {
+    "Sentiment Score": 0.2480836803,
+    "Average Rating (Out of 5)": 3.9,
+    "NEU_Colleges": "College of Professional Studies (CPS)",
+    "First Name": "Christen",
+    "Last Name": "Enos",
+    "Department": "English"
+  },
+  {
+    "Sentiment Score": 0.1786721612,
+    "Average Rating (Out of 5)": 4.2,
+    "NEU_Colleges": "D’Amore-McKim School of Business (DMSB)",
+    "First Name": "Cuneyt",
+    "Last Name": "Eroglu",
+    "Department": "Business Administration"
+  },
+  {
+    "Sentiment Score": 0.2116306141,
+    "Average Rating (Out of 5)": 4.4,
+    "NEU_Colleges": "College of Social Sciences and Humanities (CSSH)",
+    "First Name": "Danny",
+    "Last Name": "Faber",
+    "Department": "Sociology"
+  },
+  {
+    "Sentiment Score": 0.0473707371,
+    "Average Rating (Out of 5)": 1.9,
+    "NEU_Colleges": "College of Engineering (COE)",
+    "First Name": "Nassar",
+    "Last Name": "Fard",
+    "Department": "Engineering"
+  },
+  {
+    "Sentiment Score": 0.2303714146,
+    "Average Rating (Out of 5)": 3.9,
+    "NEU_Colleges": "College of Arts, Media, and Design (CAMD)",
+    "First Name": "Allen",
+    "Last Name": "Feinstein",
+    "Department": "Music"
+  },
+  {
+    "Sentiment Score": 0.1313856726,
+    "Average Rating (Out of 5)": 3,
+    "NEU_Colleges": "Khoury College of Computer Sciences",
+    "First Name": "Harriet",
+    "Last Name": "Fell",
+    "Department": "Computer Science"
+  },
+  {
+    "Sentiment Score": 0.1634226679,
+    "Average Rating (Out of 5)": 3.6,
+    "NEU_Colleges": "Khoury College of Computer Sciences",
+    "First Name": "Matthias",
+    "Last Name": "Felleisen",
+    "Department": "Computer Science"
+  },
+  {
+    "Sentiment Score": 0.2700521793,
+    "Average Rating (Out of 5)": 4.5,
+    "NEU_Colleges": "College of Science (COS)",
+    "First Name": "Neranga",
+    "Last Name": "Fernando",
+    "Department": "Mathematics"
+  },
+  {
+    "Sentiment Score": 0.2858356643,
+    "Average Rating (Out of 5)": 4.2,
+    "NEU_Colleges": "College of Social Sciences and Humanities (CSSH)",
+    "First Name": "Vincent",
+    "Last Name": "Ferraro",
+    "Department": "Sociology"
+  },
+  {
+    "Sentiment Score": 0.0675147069,
+    "Average Rating (Out of 5)": 2.5,
+    "NEU_Colleges": "College of Science (COS)",
+    "First Name": "Kirsten",
+    "Last Name": "Fertuck",
+    "Department": "Biochemistry"
+  },
+  {
+    "Sentiment Score": 0.0475635593,
+    "Average Rating (Out of 5)": 2.4,
+    "NEU_Colleges": "College of Professional Studies (CPS)",
+    "First Name": "Anne",
+    "Last Name": "Fleche",
+    "Department": "English"
+  },
+  {
+    "Sentiment Score": 0.1856716637,
+    "Average Rating (Out of 5)": 4,
+    "NEU_Colleges": "College of Social Sciences and Humanities (CSSH)",
+    "First Name": "Marcial",
+    "Last Name": "Flores",
+    "Department": "Spanish"
+  },
+  {
+    "Sentiment Score": 0.2080861772,
+    "Average Rating (Out of 5)": 3.7,
+    "NEU_Colleges": "D’Amore-McKim School of Business (DMSB)",
+    "First Name": "Paul",
+    "Last Name": "Fombelle",
+    "Department": "Marketing"
+  },
+  {
+    "Sentiment Score": 0.0836463213,
+    "Average Rating (Out of 5)": 2.9,
+    "NEU_Colleges": "Khoury College of Computer Sciences",
+    "First Name": "Mark",
+    "Last Name": "Fontenot",
+    "Department": "Computer Science"
+  },
+  {
+    "Sentiment Score": -0.0179331612,
+    "Average Rating (Out of 5)": 2.8,
+    "NEU_Colleges": "College of Engineering (COE)",
+    "First Name": "Stanley",
+    "Last Name": "Forman",
+    "Department": "Civil Engineering"
+  },
+  {
+    "Sentiment Score": 0.1638721665,
+    "Average Rating (Out of 5)": 3.1,
+    "NEU_Colleges": "College of Professional Studies (CPS)",
+    "First Name": "Murray",
+    "Last Name": "Forman",
+    "Department": "Communication"
+  },
+  {
+    "Sentiment Score": 0.2205033855,
+    "Average Rating (Out of 5)": 4.2,
+    "NEU_Colleges": "College of Science (COS)",
+    "First Name": "David",
+    "Last Name": "Forsyth",
+    "Department": "Chemistry"
+  },
+  {
+    "Sentiment Score": 0.0882610185,
+    "Average Rating (Out of 5)": 3.2,
+    "NEU_Colleges": "College of Science (COS)",
+    "First Name": "Dimitrios",
+    "Last Name": "Fotiadis",
+    "Department": "Mathematics"
+  },
+  {
+    "Sentiment Score": 0.2114809096,
+    "Average Rating (Out of 5)": 4.3,
+    "NEU_Colleges": "College of Science (COS)",
+    "First Name": "Assad",
+    "Last Name": "Fotovatian",
+    "Department": "Physics"
+  },
+  {
+    "Sentiment Score": 0.2029327371,
+    "Average Rating (Out of 5)": 3.9,
+    "NEU_Colleges": "College of Arts, Media, and Design (CAMD)",
+    "First Name": "Chuck",
+    "Last Name": "Fountain",
+    "Department": "Journalism"
+  },
+  {
+    "Sentiment Score": 0.1530469289,
+    "Average Rating (Out of 5)": 2.8,
+    "NEU_Colleges": "College of Social Sciences and Humanities (CSSH)",
+    "First Name": "James",
+    "Last Name": "Fox",
+    "Department": "Criminal Justice"
+  },
+  {
+    "Sentiment Score": -0.0726845845,
+    "Average Rating (Out of 5)": 2.2,
+    "NEU_Colleges": "College of Science (COS)",
+    "First Name": "John",
+    "Last Name": "Frampton",
+    "Department": "Mathematics"
+  },
+  {
+    "Sentiment Score": -0.0253689508,
+    "Average Rating (Out of 5)": 2.3,
+    "NEU_Colleges": "College of Social Sciences and Humanities (CSSH)",
+    "First Name": "Peter",
+    "Last Name": "Fraunholtz",
+    "Department": "History"
+  },
+  {
+    "Sentiment Score": 0.2826588045,
+    "Average Rating (Out of 5)": 4.5,
+    "NEU_Colleges": "College of Engineering (COE)",
+    "First Name": "Susan",
+    "Last Name": "Freeman",
+    "Department": "Engineering"
+  },
+  {
+    "Sentiment Score": 0.1753182877,
+    "Average Rating (Out of 5)": 3.3,
+    "NEU_Colleges": "Khoury College of Computer Sciences",
+    "First Name": "Clark",
+    "Last Name": "Freifeld",
+    "Department": "Computer Science"
+  },
+  {
+    "Sentiment Score": 0.2349162257,
+    "Average Rating (Out of 5)": 3.9,
+    "NEU_Colleges": "D’Amore-McKim School of Business (DMSB)",
+    "First Name": "John",
+    "Last Name": "Friar",
+    "Department": "Business"
+  },
+  {
+    "Sentiment Score": 0.0576379502,
+    "Average Rating (Out of 5)": 2.4,
+    "NEU_Colleges": "College of Science (COS)",
+    "First Name": "Brian",
+    "Last Name": "Fulton",
+    "Department": "Chemistry"
+  },
+  {
+    "Sentiment Score": 0.0806406526,
+    "Average Rating (Out of 5)": 2.9,
+    "NEU_Colleges": "College of Engineering (COE)",
+    "First Name": "Peter",
+    "Last Name": "Furth",
+    "Department": "Civil Engineering"
+  },
+  {
+    "Sentiment Score": 0.1211714366,
+    "Average Rating (Out of 5)": 3.1,
+    "NEU_Colleges": "College of Science (COS)",
+    "First Name": "Terrence",
+    "Last Name": "Gaffney",
+    "Department": "Mathematics"
+  },
+  {
+    "Sentiment Score": -0.0084885621,
+    "Average Rating (Out of 5)": 1.8,
+    "NEU_Colleges": "D’Amore-McKim School of Business (DMSB)",
+    "First Name": "Timothy",
+    "Last Name": "Gagnon",
+    "Department": "Accounting"
+  },
+  {
+    "Sentiment Score": 0.3208618501,
+    "Average Rating (Out of 5)": 4.9,
+    "NEU_Colleges": "D’Amore-McKim School of Business (DMSB)",
+    "First Name": "Ronen",
+    "Last Name": "Gal-Or",
+    "Department": "Accounting"
+  },
+  {
+    "Sentiment Score": 0.2069211572,
+    "Average Rating (Out of 5)": 4.2,
+    "NEU_Colleges": "D’Amore-McKim School of Business (DMSB)",
+    "First Name": "Sean",
+    "Last Name": "Gallagher",
+    "Department": "Marketing"
+  },
+  {
+    "Sentiment Score": 0.3307916728,
+    "Average Rating (Out of 5)": 4.8,
+    "NEU_Colleges": "College of Professional Studies (CPS)",
+    "First Name": "Rachel",
+    "Last Name": "Gans-Boriskin",
+    "Department": "Communication Studies"
+  },
+  {
+    "Sentiment Score": 0.0128552944,
+    "Average Rating (Out of 5)": 2.5,
+    "NEU_Colleges": "College of Science (COS)",
+    "First Name": "Matt",
+    "Last Name": "Garcia",
+    "Department": "Mathematics"
+  },
+  {
+    "Sentiment Score": 0.2154331307,
+    "Average Rating (Out of 5)": 3.1,
+    "NEU_Colleges": "College of Social Sciences and Humanities (CSSH)",
+    "First Name": "Denise",
+    "Last Name": "Garcia",
+    "Department": "Political Science"
+  },
+  {
+    "Sentiment Score": 0.3472131718,
+    "Average Rating (Out of 5)": 4.7,
+    "NEU_Colleges": "College of Social Sciences and Humanities (CSSH)",
+    "First Name": "Lori",
+    "Last Name": "Gardinier",
+    "Department": "Social Science"
+  },
+  {
+    "Sentiment Score": 0.3250542423,
+    "Average Rating (Out of 5)": 4.9,
+    "NEU_Colleges": "College of Science (COS)",
+    "First Name": "Prasanth",
+    "Last Name": "George",
+    "Department": "Mathematics"
+  },
+  {
+    "Sentiment Score": 0.2047909524,
+    "Average Rating (Out of 5)": 4.3,
+    "NEU_Colleges": "College of Social Sciences and Humanities (CSSH)",
+    "First Name": "Francis Frank",
+    "Last Name": "Georges",
+    "Department": "Economics"
+  },
+  {
+    "Sentiment Score": 0.0160362017,
+    "Average Rating (Out of 5)": 2.2,
+    "NEU_Colleges": "College of Science (COS)",
+    "First Name": "Aliska",
+    "Last Name": "Gibbins",
+    "Department": "Mathematics"
+  },
+  {
+    "Sentiment Score": 0.1536633663,
+    "Average Rating (Out of 5)": 3.6,
+    "NEU_Colleges": "College of Science (COS)",
+    "First Name": "William",
+    "Last Name": "Giessen",
+    "Department": "Chemistry"
+  },
+  {
+    "Sentiment Score": 0.159681704,
+    "Average Rating (Out of 5)": 3.1,
+    "NEU_Colleges": "D’Amore-McKim School of Business (DMSB)",
+    "First Name": "Joseph",
+    "Last Name": "Giglio",
+    "Department": "Business"
+  },
+  {
+    "Sentiment Score": 0.1920026702,
+    "Average Rating (Out of 5)": 4,
+    "NEU_Colleges": "College of Science (COS)",
+    "First Name": "Tom",
+    "Last Name": "Gilbert",
+    "Department": "Chemistry"
+  },
+  {
+    "Sentiment Score": 0.1648102482,
+    "Average Rating (Out of 5)": 3.4,
+    "NEU_Colleges": "College of Social Sciences and Humanities (CSSH)",
+    "First Name": "Robert",
+    "Last Name": "Gilbert",
+    "Department": "Political Science"
+  },
+  {
+    "Sentiment Score": 0.0911526833,
+    "Average Rating (Out of 5)": 3,
+    "NEU_Colleges": "D’Amore-McKim School of Business (DMSB)",
+    "First Name": "John",
+    "Last Name": "Glencross",
+    "Department": "Accounting"
+  },
+  {
+    "Sentiment Score": 0.1830374715,
+    "Average Rating (Out of 5)": 3,
+    "NEU_Colleges": "D’Amore-McKim School of Business (DMSB)",
+    "First Name": "Leonard",
+    "Last Name": "Glick",
+    "Department": "Business"
+  },
+  {
+    "Sentiment Score": 0.268097965,
+    "Average Rating (Out of 5)": 4.7,
+    "NEU_Colleges": "Bouvé College of Health Sciences",
+    "First Name": "Kyle",
+    "Last Name": "Gobrogge",
+    "Department": "Psychology"
+  },
+  {
+    "Sentiment Score": 0.2182742504,
+    "Average Rating (Out of 5)": 4.2,
+    "NEU_Colleges": "Khoury College of Computer Sciences",
+    "First Name": "Kevin",
+    "Last Name": "Gold",
+    "Department": "Computer Science"
+  },
+  {
+    "Sentiment Score": 0.1517850474,
+    "Average Rating (Out of 5)": 3.6,
+    "NEU_Colleges": "D’Amore-McKim School of Business (DMSB)",
+    "First Name": "Robert",
+    "Last Name": "Goldberg",
+    "Department": "Business"
+  },
+  {
+    "Sentiment Score": 0.2852034272,
+    "Average Rating (Out of 5)": 4.6,
+    "NEU_Colleges": "D’Amore-McKim School of Business (DMSB)",
+    "First Name": "Stephen",
+    "Last Name": "Golden",
+    "Department": "Entrepreneurship"
+  },
+  {
+    "Sentiment Score": 0.0784451659,
+    "Average Rating (Out of 5)": 3.1,
+    "NEU_Colleges": "College of Social Sciences and Humanities (CSSH)",
+    "First Name": "Minton",
+    "Last Name": "Goldman",
+    "Department": "Political Science"
+  },
+  {
+    "Sentiment Score": 0.2484762592,
+    "Average Rating (Out of 5)": 4.6,
+    "NEU_Colleges": "D’Amore-McKim School of Business (DMSB)",
+    "First Name": "William (Bill)",
+    "Last Name": "Goldman",
+    "Department": "Accounting"
+  },
+  {
+    "Sentiment Score": 0.2769643483,
+    "Average Rating (Out of 5)": 4.3,
+    "NEU_Colleges": "College of Professional Studies (CPS)",
+    "First Name": "Greg",
+    "Last Name": "Goodale",
+    "Department": "Communication Studies"
+  },
+  {
+    "Sentiment Score": 0.1648425281,
+    "Average Rating (Out of 5)": 3.6,
+    "NEU_Colleges": "D’Amore-McKim School of Business (DMSB)",
+    "First Name": "Mark",
+    "Last Name": "Gooley",
+    "Department": "Finance"
+  },
+  {
+    "Sentiment Score": 0.3165131234,
+    "Average Rating (Out of 5)": 4,
+    "NEU_Colleges": "College of Professional Studies (CPS)",
+    "First Name": "Gary",
+    "Last Name": "Goshgarian",
+    "Department": "English"
+  },
+  {
+    "Sentiment Score": 0.2020126846,
+    "Average Rating (Out of 5)": 4.4,
+    "NEU_Colleges": "College of Science (COS)",
+    "First Name": "Mark",
+    "Last Name": "Grabiner",
+    "Department": "Biology"
+  },
+  {
+    "Sentiment Score": 0.2388880046,
+    "Average Rating (Out of 5)": 4.2,
+    "NEU_Colleges": "College of Professional Studies (CPS)",
+    "First Name": "Steve",
+    "Last Name": "Granelli",
+    "Department": "Communication Studies"
+  },
+  {
+    "Sentiment Score": 0.210123995,
+    "Average Rating (Out of 5)": 4,
+    "NEU_Colleges": "College of Social Sciences and Humanities (CSSH)",
+    "First Name": "Ann",
+    "Last Name": "Grenell",
+    "Department": "History"
+  },
+  {
+    "Sentiment Score": 0.2287259615,
+    "Average Rating (Out of 5)": 3.7,
+    "NEU_Colleges": "D’Amore-McKim School of Business (DMSB)",
+    "First Name": "John",
+    "Last Name": "Griffith",
+    "Department": "Business"
+  },
+  {
+    "Sentiment Score": 0.1203650794,
+    "Average Rating (Out of 5)": 3.4,
+    "NEU_Colleges": "D’Amore-McKim School of Business (DMSB)",
+    "First Name": "Tiantian",
+    "Last Name": "Gu",
+    "Department": "Business Administration"
+  },
+  {
+    "Sentiment Score": -0.0075922813,
+    "Average Rating (Out of 5)": 2.7,
+    "NEU_Colleges": "D’Amore-McKim School of Business (DMSB)",
+    "First Name": "Mohammed",
+    "Last Name": "Habibullah",
+    "Department": "Business"
+  },
+  {
+    "Sentiment Score": 0.0447244867,
+    "Average Rating (Out of 5)": 2.4,
+    "NEU_Colleges": "Khoury College of Computer Sciences",
+    "First Name": "John",
+    "Last Name": "Haley",
+    "Department": "Computer & Informational Tech."
+  },
+  {
+    "Sentiment Score": 0.1302742684,
+    "Average Rating (Out of 5)": 2.7,
+    "NEU_Colleges": "College of Engineering (COE)",
+    "First Name": "Hamid Nayeb",
+    "Last Name": "Hashemi",
+    "Department": "Mechanical Engineering"
+  },
+  {
+    "Sentiment Score": 0.1475801486,
+    "Average Rating (Out of 5)": 3.6,
+    "NEU_Colleges": "College of Professional Studies (CPS)",
+    "First Name": "Thomas",
+    "Last Name": "Havens",
+    "Department": "Humanities"
+  },
+  {
+    "Sentiment Score": -0.0014170778,
+    "Average Rating (Out of 5)": 1.9,
+    "NEU_Colleges": "Khoury College of Computer Sciences",
+    "First Name": "Jason",
+    "Last Name": "Hemann",
+    "Department": "Computer Science"
+  },
+  {
+    "Sentiment Score": 0.2369750516,
+    "Average Rating (Out of 5)": 3.8,
+    "NEU_Colleges": "College of Arts, Media, and Design (CAMD)",
+    "First Name": "Carlene",
+    "Last Name": "Hempel",
+    "Department": "Journalism"
+  },
+  {
+    "Sentiment Score": 0.0185891024,
+    "Average Rating (Out of 5)": 1.9,
+    "NEU_Colleges": "College of Science (COS)",
+    "First Name": "Jamie",
+    "Last Name": "Henzy",
+    "Department": "Biology"
+  },
+  {
+    "Sentiment Score": 0.285183446,
+    "Average Rating (Out of 5)": 4.5,
+    "NEU_Colleges": "College of Professional Studies (CPS)",
+    "First Name": "Dale",
+    "Last Name": "Herbeck",
+    "Department": "Communication Studies"
+  },
+  {
+    "Sentiment Score": 0.0525913177,
+    "Average Rating (Out of 5)": 3,
+    "NEU_Colleges": "College of Social Sciences and Humanities (CSSH)",
+    "First Name": "Gerald",
+    "Last Name": "Herman",
+    "Department": "History"
+  },
+  {
+    "Sentiment Score": 0.1688467626,
+    "Average Rating (Out of 5)": 3.9,
+    "NEU_Colleges": "College of Social Sciences and Humanities (CSSH)",
+    "First Name": "Carie",
+    "Last Name": "Hersh",
+    "Department": "Anthropology"
+  },
+  {
+    "Sentiment Score": 0.3300671853,
+    "Average Rating (Out of 5)": 4.9,
+    "NEU_Colleges": "College of Engineering (COE)",
+    "First Name": "Joshua",
+    "Last Name": "Hertz",
+    "Department": "Engineering"
+  },
+  {
+    "Sentiment Score": 0.2950746773,
+    "Average Rating (Out of 5)": 4.9,
+    "NEU_Colleges": "Khoury College of Computer Sciences",
+    "First Name": "Matthew",
+    "Last Name": "Higger",
+    "Department": "Computer Science"
+  },
+  {
+    "Sentiment Score": 0.2342818602,
+    "Average Rating (Out of 5)": 4.6,
+    "NEU_Colleges": "College of Science (COS)",
+    "First Name": "Malcolm",
+    "Last Name": "Hill",
+    "Department": "Geology"
+  },
+  {
+    "Sentiment Score": 0.1994988576,
+    "Average Rating (Out of 5)": 3.2,
+    "NEU_Colleges": "College of Social Sciences and Humanities (CSSH)",
+    "First Name": "Stephen",
+    "Last Name": "Hiltz",
+    "Department": "History"
+  },
+  {
+    "Sentiment Score": 0.1636752971,
+    "Average Rating (Out of 5)": 3.6,
+    "NEU_Colleges": "College of Arts, Media, and Design (CAMD)",
+    "First Name": "Hubert",
+    "Last Name": "HO",
+    "Department": "Music"
+  },
+  {
+    "Sentiment Score": 0.1283516484,
+    "Average Rating (Out of 5)": 2.7,
+    "NEU_Colleges": "College of Science (COS)",
+    "First Name": "Aaron",
+    "Last Name": "Hoffman",
+    "Department": "Mathematics"
+  },
+  {
+    "Sentiment Score": 0.2791077388,
+    "Average Rating (Out of 5)": 4.7,
+    "NEU_Colleges": "D’Amore-McKim School of Business (DMSB)",
+    "First Name": "Udi",
+    "Last Name": "Hoitash",
+    "Department": "Accounting"
+  },
+  {
+    "Sentiment Score": 0.2960917722,
+    "Average Rating (Out of 5)": 4.4,
+    "NEU_Colleges": "College of Professional Studies (CPS)",
+    "First Name": "Michael",
+    "Last Name": "Hoppmann",
+    "Department": "Communication Studies"
+  },
+  {
+    "Sentiment Score": 0.2616621534,
+    "Average Rating (Out of 5)": 3.9,
+    "NEU_Colleges": "College of Social Sciences and Humanities (CSSH)",
+    "First Name": "Denise",
+    "Last Name": "Horn",
+    "Department": "International Studies"
+  },
+  {
+    "Sentiment Score": 0.3002568134,
+    "Average Rating (Out of 5)": 4.9,
+    "NEU_Colleges": "College of Science (COS)",
+    "First Name": "Valerie",
+    "Last Name": "Hower",
+    "Department": "Mathematics"
+  },
+  {
+    "Sentiment Score": 0.0822306397,
+    "Average Rating (Out of 5)": 2.4,
+    "NEU_Colleges": "College of Science (COS)",
+    "First Name": "James",
+    "Last Name": "Hudon",
+    "Department": "Mathematics"
+  },
+  {
+    "Sentiment Score": 0.2904219866,
+    "Average Rating (Out of 5)": 4.9,
+    "NEU_Colleges": "D’Amore-McKim School of Business (DMSB)",
+    "First Name": "Patrick",
+    "Last Name": "Hurley",
+    "Department": "Accounting"
+  },
+  {
+    "Sentiment Score": 0.0101354301,
+    "Average Rating (Out of 5)": 2.1,
+    "NEU_Colleges": "College of Science (COS)",
+    "First Name": "Anthony",
+    "Last Name": "Iarrobino",
+    "Department": "Mathematics"
+  },
+  {
+    "Sentiment Score": 0.0982073045,
+    "Average Rating (Out of 5)": 2.9,
+    "NEU_Colleges": "College of Social Sciences and Humanities (CSSH)",
+    "First Name": "Patricia",
+    "Last Name": "Illingworth",
+    "Department": "Philosophy"
+  },
+  {
+    "Sentiment Score": 0.1317187372,
+    "Average Rating (Out of 5)": 3.7,
+    "NEU_Colleges": "College of Professional Studies (CPS)",
+    "First Name": "Julia",
+    "Last Name": "Ivy",
+    "Department": "Leadership"
+  },
+  {
+    "Sentiment Score": -0.0017795883,
+    "Average Rating (Out of 5)": 3,
+    "NEU_Colleges": "Bouvé College of Health Sciences",
+    "First Name": "Denise",
+    "Last Name": "Jackson",
+    "Department": "Psychology"
+  },
+  {
+    "Sentiment Score": 0.15079797,
+    "Average Rating (Out of 5)": 3.6,
+    "NEU_Colleges": "D’Amore-McKim School of Business (DMSB)",
+    "First Name": "Cynthia",
+    "Last Name": "Jackson",
+    "Department": "Business"
+  },
+  {
+    "Sentiment Score": 0.2696521739,
+    "Average Rating (Out of 5)": 4.6,
+    "NEU_Colleges": "College of Professional Studies (CPS)",
+    "First Name": "Ellen",
+    "Last Name": "Jackson",
+    "Department": "English"
+  },
+  {
+    "Sentiment Score": 0.2519953176,
+    "Average Rating (Out of 5)": 3.9,
+    "NEU_Colleges": "College of Engineering (COE)",
+    "First Name": "Beverly",
+    "Last Name": "Jaeger",
+    "Department": "Engineering"
+  },
+  {
+    "Sentiment Score": 0.1677777778,
+    "Average Rating (Out of 5)": 3.9,
+    "NEU_Colleges": "D’Amore-McKim School of Business (DMSB)",
+    "First Name": "Rob",
+    "Last Name": "James",
+    "Department": "Business"
+  },
+  {
+    "Sentiment Score": 0.2777191506,
+    "Average Rating (Out of 5)": 4.3,
+    "NEU_Colleges": "College of Science (COS)",
+    "First Name": "Bogume",
+    "Last Name": "Jang",
+    "Department": "Mathematics"
+  },
+  {
+    "Sentiment Score": 0.2870768799,
+    "Average Rating (Out of 5)": 4.9,
+    "NEU_Colleges": "College of Arts, Media, and Design (CAMD)",
+    "First Name": "Leon",
+    "Last Name": "Janikian",
+    "Department": "Music"
+  },
+  {
+    "Sentiment Score": 0.3689885872,
+    "Average Rating (Out of 5)": 5,
+    "NEU_Colleges": "College of Engineering (COE)",
+    "First Name": "Angelina",
+    "Last Name": "Jay",
+    "Department": "Engineering"
+  },
+  {
+    "Sentiment Score": 0.20592848,
+    "Average Rating (Out of 5)": 4,
+    "NEU_Colleges": "College of Science (COS)",
+    "First Name": "Solomon",
+    "Last Name": "Jekel",
+    "Department": "Mathematics"
+  },
+  {
+    "Sentiment Score": 0.0946448319,
+    "Average Rating (Out of 5)": 2.6,
+    "NEU_Colleges": "College of Science (COS)",
+    "First Name": "Rajini",
+    "Last Name": "Jesudason",
+    "Department": "Mathematics"
+  },
+  {
+    "Sentiment Score": -0.0016183862,
+    "Average Rating (Out of 5)": 2.7,
+    "NEU_Colleges": "College of Social Sciences and Humanities (CSSH)",
+    "First Name": "Tulin",
+    "Last Name": "Johansson",
+    "Department": "Economics"
+  },
+  {
+    "Sentiment Score": 0.0434511785,
+    "Average Rating (Out of 5)": 3.6,
+    "NEU_Colleges": "College of Science (COS)",
+    "First Name": "Gwilym",
+    "Last Name": "Jones",
+    "Department": "Biology"
+  },
+  {
+    "Sentiment Score": -0.0980130362,
+    "Average Rating (Out of 5)": 2.2,
+    "NEU_Colleges": "College of Engineering (COE)",
+    "First Name": "Yung Joon",
+    "Last Name": "Jung",
+    "Department": "Mechanical Engineering"
+  },
+  {
+    "Sentiment Score": 0.0400274943,
+    "Average Rating (Out of 5)": 2.7,
+    "NEU_Colleges": "Bouvé College of Health Sciences",
+    "First Name": "Emily",
+    "Last Name": "Kales",
+    "Department": "Psychology"
+  },
+  {
+    "Sentiment Score": 0.0893452381,
+    "Average Rating (Out of 5)": 3.6,
+    "NEU_Colleges": "College of Engineering (COE)",
+    "First Name": "Sagar",
+    "Last Name": "Kamarthi",
+    "Department": "Mechanical Engineering"
+  },
+  {
+    "Sentiment Score": 0.1156423433,
+    "Average Rating (Out of 5)": 3.5,
+    "NEU_Colleges": "College of Arts, Media, and Design (CAMD)",
+    "First Name": "John",
+    "Last Name": "Kane",
+    "Department": "Fine Arts"
+  },
+  {
+    "Sentiment Score": 0.2935846702,
+    "Average Rating (Out of 5)": 4,
+    "NEU_Colleges": "College of Professional Studies (CPS)",
+    "First Name": "Ralph",
+    "Last Name": "Katz",
+    "Department": "Human Resources Management"
+  },
+  {
+    "Sentiment Score": 0.0924347158,
+    "Average Rating (Out of 5)": 2.6,
+    "NEU_Colleges": "College of Social Sciences and Humanities (CSSH)",
+    "First Name": "W.D.",
+    "Last Name": "Kay",
+    "Department": "Political Science"
+  },
+  {
+    "Sentiment Score": 0.1583045802,
+    "Average Rating (Out of 5)": 3,
+    "NEU_Colleges": "College of Professional Studies (CPS)",
+    "First Name": "Bret",
+    "Last Name": "Keeling",
+    "Department": "English"
+  },
+  {
+    "Sentiment Score": 0.1622628139,
+    "Average Rating (Out of 5)": 3.9,
+    "NEU_Colleges": "College of Science (COS)",
+    "First Name": "Thomas",
+    "Last Name": "Kelley",
+    "Department": "Physics"
+  },
+  {
+    "Sentiment Score": 0.076941932,
+    "Average Rating (Out of 5)": 2.5,
+    "NEU_Colleges": "College of Professional Studies (CPS)",
+    "First Name": "Kathleen",
+    "Last Name": "Kelly",
+    "Department": "English"
+  },
+  {
+    "Sentiment Score": 0.1938738576,
+    "Average Rating (Out of 5)": 3.3,
+    "NEU_Colleges": "College of Social Sciences and Humanities (CSSH)",
+    "First Name": "Whitney",
+    "Last Name": "Kelting",
+    "Department": "Philosophy"
+  },
+  {
+    "Sentiment Score": 0.090138154,
+    "Average Rating (Out of 5)": 2.8,
+    "NEU_Colleges": "D’Amore-McKim School of Business (DMSB)",
+    "First Name": "Bill",
+    "Last Name": "Kenda",
+    "Department": "Marketing"
+  },
+  {
+    "Sentiment Score": 0.2239583333,
+    "Average Rating (Out of 5)": 4.3,
+    "NEU_Colleges": "College of Arts, Media, and Design (CAMD)",
+    "First Name": "Dan",
+    "Last Name": "Kennedy",
+    "Department": "Journalism"
+  },
+  {
+    "Sentiment Score": 0.0138298088,
+    "Average Rating (Out of 5)": 2,
+    "NEU_Colleges": "D’Amore-McKim School of Business (DMSB)",
+    "First Name": "Richard",
+    "Last Name": "Kesner",
+    "Department": "Management"
+  },
+  {
+    "Sentiment Score": 0.0839843023,
+    "Average Rating (Out of 5)": 2.6,
+    "NEU_Colleges": "D’Amore-McKim School of Business (DMSB)",
+    "First Name": "Iffat",
+    "Last Name": "Khan",
+    "Department": "International Business"
+  },
+  {
+    "Sentiment Score": 0.1820867154,
+    "Average Rating (Out of 5)": 3.8,
+    "NEU_Colleges": "College of Social Sciences and Humanities (CSSH)",
+    "First Name": "Ilham",
+    "Last Name": "Khuri-Makdisi",
+    "Department": "History"
+  },
+  {
+    "Sentiment Score": -0.0605711876,
+    "Average Rating (Out of 5)": 1.8,
+    "NEU_Colleges": "College of Social Sciences and Humanities (CSSH)",
+    "First Name": "Sungwoo",
+    "Last Name": "Kim",
+    "Department": "Economics"
+  },
+  {
+    "Sentiment Score": 0.1291840973,
+    "Average Rating (Out of 5)": 3,
+    "NEU_Colleges": "Khoury College of Computer Sciences",
+    "First Name": "John",
+    "Last Name": "Kimani",
+    "Department": "Computer Engineering"
+  },
+  {
+    "Sentiment Score": 0.2932648148,
+    "Average Rating (Out of 5)": 4.7,
+    "NEU_Colleges": "Bouvé College of Health Sciences",
+    "First Name": "Grayson",
+    "Last Name": "Kimball",
+    "Department": "Psychology"
+  },
+  {
+    "Sentiment Score": 0.0759869387,
+    "Average Rating (Out of 5)": 2.1,
+    "NEU_Colleges": "College of Social Sciences and Humanities (CSSH)",
+    "First Name": "Nancy",
+    "Last Name": "Kimelman",
+    "Department": "Economics"
+  },
+  {
+    "Sentiment Score": 0.3163711002,
+    "Average Rating (Out of 5)": 3.9,
+    "NEU_Colleges": "College of Arts, Media, and Design (CAMD)",
+    "First Name": "Nancy",
+    "Last Name": "Kindelan",
+    "Department": "Theater"
+  },
+  {
+    "Sentiment Score": 0.068168037,
+    "Average Rating (Out of 5)": 2.3,
+    "NEU_Colleges": "College of Science (COS)",
+    "First Name": "Don",
+    "Last Name": "King",
+    "Department": "Mathematics"
+  },
+  {
+    "Sentiment Score": 0.0668931503,
+    "Average Rating (Out of 5)": 3.5,
+    "NEU_Colleges": "College of Science (COS)",
+    "First Name": "Rein",
+    "Last Name": "Kirss",
+    "Department": "Chemistry"
+  },
+  {
+    "Sentiment Score": -0.009037037,
+    "Average Rating (Out of 5)": 2,
+    "NEU_Colleges": "College of Arts, Media, and Design (CAMD)",
+    "First Name": "William",
+    "Last Name": "Kirtz",
+    "Department": "Journalism"
+  },
+  {
+    "Sentiment Score": 0.1971187484,
+    "Average Rating (Out of 5)": 3.4,
+    "NEU_Colleges": "College of Social Sciences and Humanities (CSSH)",
+    "First Name": "Alan",
+    "Last Name": "Klein",
+    "Department": "Anthropology"
+  },
+  {
+    "Sentiment Score": -0.0017240349,
+    "Average Rating (Out of 5)": 2,
+    "NEU_Colleges": "College of Social Sciences and Humanities (CSSH)",
+    "First Name": "Martin",
+    "Last Name": "Konan",
+    "Department": "Economics"
+  },
+  {
+    "Sentiment Score": 0.2402467532,
+    "Average Rating (Out of 5)": 4.5,
+    "NEU_Colleges": "College of Science (COS)",
+    "First Name": "Sergey",
+    "Last Name": "Kravchenko",
+    "Department": "Physics"
+  },
+  {
+    "Sentiment Score": 0.2218113725,
+    "Average Rating (Out of 5)": 4.4,
+    "NEU_Colleges": "D’Amore-McKim School of Business (DMSB)",
+    "First Name": "Ganesh",
+    "Last Name": "Krishnamoorthy",
+    "Department": "Business"
+  },
+  {
+    "Sentiment Score": 0.09524394,
+    "Average Rating (Out of 5)": 2.1,
+    "NEU_Colleges": "College of Science (COS)",
+    "First Name": "Ira",
+    "Last Name": "Krull",
+    "Department": "Chemistry"
+  },
+  {
+    "Sentiment Score": 0.1540599565,
+    "Average Rating (Out of 5)": 3.5,
+    "NEU_Colleges": "College of Science (COS)",
+    "First Name": "Sanga",
+    "Last Name": "Kugabalasooriar",
+    "Department": "Chemistry"
+  },
+  {
+    "Sentiment Score": 0.0184039063,
+    "Average Rating (Out of 5)": 2.3,
+    "NEU_Colleges": "D’Amore-McKim School of Business (DMSB)",
+    "First Name": "Anna",
+    "Last Name": "Lamin",
+    "Department": "Management"
+  },
+  {
+    "Sentiment Score": 0.2883198454,
+    "Average Rating (Out of 5)": 4.4,
+    "NEU_Colleges": "College of Professional Studies (CPS)",
+    "First Name": "Bill",
+    "Last Name": "Lancaster",
+    "Department": "Communication"
+  },
+  {
+    "Sentiment Score": 0.2239761035,
+    "Average Rating (Out of 5)": 4.6,
+    "NEU_Colleges": "College of Arts, Media, and Design (CAMD)",
+    "First Name": "Junauro",
+    "Last Name": "Landgrebe",
+    "Department": "Music"
+  },
+  {
+    "Sentiment Score": 0.1500386859,
+    "Average Rating (Out of 5)": 3.7,
+    "NEU_Colleges": "College of Science (COS)",
+    "First Name": "David",
+    "Last Name": "Lang",
+    "Department": "Mathematics"
+  },
+  {
+    "Sentiment Score": 0.1835980309,
+    "Average Rating (Out of 5)": 4.3,
+    "NEU_Colleges": "College of Social Sciences and Humanities (CSSH)",
+    "First Name": "Krista",
+    "Last Name": "Larsen",
+    "Department": "Criminal Justice"
+  },
+  {
+    "Sentiment Score": 0.2956462288,
+    "Average Rating (Out of 5)": 4.3,
+    "NEU_Colleges": "College of Professional Studies (CPS)",
+    "First Name": "Karen",
+    "Last Name": "Lauffer",
+    "Department": "Communication"
+  },
+  {
+    "Sentiment Score": 0.047919686,
+    "Average Rating (Out of 5)": 2.8,
+    "NEU_Colleges": "College of Arts, Media, and Design (CAMD)",
+    "First Name": "Ava",
+    "Last Name": "Lawrence",
+    "Department": "Music"
+  },
+  {
+    "Sentiment Score": 0.0743306638,
+    "Average Rating (Out of 5)": 1.7,
+    "NEU_Colleges": "D’Amore-McKim School of Business (DMSB)",
+    "First Name": "Yang",
+    "Last Name": "Lee",
+    "Department": "Business"
+  },
+  {
+    "Sentiment Score": 0.1996010702,
+    "Average Rating (Out of 5)": 4.4,
+    "NEU_Colleges": "College of Social Sciences and Humanities (CSSH)",
+    "First Name": "Jung",
+    "Last Name": "Lee",
+    "Department": "Philosophy"
+  },
+  {
+    "Sentiment Score": 0.3222812876,
+    "Average Rating (Out of 5)": 4.5,
+    "NEU_Colleges": "D’Amore-McKim School of Business (DMSB)",
+    "First Name": "Duane",
+    "Last Name": "Lefevre",
+    "Department": "Business"
+  },
+  {
+    "Sentiment Score": 0.2149867725,
+    "Average Rating (Out of 5)": 4.8,
+    "NEU_Colleges": "College of Engineering (COE)",
+    "First Name": "Brad",
+    "Last Name": "Lehman",
+    "Department": "Engineering"
+  },
+  {
+    "Sentiment Score": -0.0511880879,
+    "Average Rating (Out of 5)": 2.3,
+    "NEU_Colleges": "College of Science (COS)",
+    "First Name": "Undine",
+    "Last Name": "Leopold",
+    "Department": "Mathematics"
+  },
+  {
+    "Sentiment Score": 0.1063711362,
+    "Average Rating (Out of 5)": 3.3,
+    "NEU_Colleges": "Khoury College of Computer Sciences",
+    "First Name": "Benjamin",
+    "Last Name": "Lerner",
+    "Department": "Computer Science"
+  },
+  {
+    "Sentiment Score": 0.2299520898,
+    "Average Rating (Out of 5)": 4.3,
+    "NEU_Colleges": "D’Amore-McKim School of Business (DMSB)",
+    "First Name": "Tom",
+    "Last Name": "Lerra",
+    "Department": "Marketing"
+  },
+  {
+    "Sentiment Score": 0.2813357061,
+    "Average Rating (Out of 5)": 4.3,
+    "NEU_Colleges": "College of Professional Studies (CPS)",
+    "First Name": "Marina",
+    "Last Name": "Leslie",
+    "Department": "English"
+  },
+  {
+    "Sentiment Score": 0.3350104167,
+    "Average Rating (Out of 5)": 4.6,
+    "NEU_Colleges": "College of Social Sciences and Humanities (CSSH)",
+    "First Name": "Jack",
+    "Last Name": "Levin",
+    "Department": "Sociology"
+  },
+  {
+    "Sentiment Score": 0.0517322835,
+    "Average Rating (Out of 5)": 3,
+    "NEU_Colleges": "Khoury College of Computer Sciences",
+    "First Name": "Karl",
+    "Last Name": "Lieberherr",
+    "Department": "Computer Science"
+  },
+  {
+    "Sentiment Score": 0.239198917,
+    "Average Rating (Out of 5)": 4.4,
+    "NEU_Colleges": "College of Science (COS)",
+    "First Name": "John",
+    "Last Name": "Lindhe",
+    "Department": "Mathematics"
+  },
+  {
+    "Sentiment Score": 0.2227747016,
+    "Average Rating (Out of 5)": 4.1,
+    "NEU_Colleges": "Bouvé College of Health Sciences",
+    "First Name": "Jim",
+    "Last Name": "Lipsky",
+    "Department": "Sign Language"
+  },
+  {
+    "Sentiment Score": 0.2596728761,
+    "Average Rating (Out of 5)": 4.5,
+    "NEU_Colleges": "College of Social Sciences and Humanities (CSSH)",
+    "First Name": "Heather",
+    "Last Name": "Littlefield",
+    "Department": "Linguistics"
+  },
+  {
+    "Sentiment Score": 0.2932321793,
+    "Average Rating (Out of 5)": 4.6,
+    "NEU_Colleges": "Khoury College of Computer Sciences",
+    "First Name": "Handan",
+    "Last Name": "Liu",
+    "Department": "Information Science"
+  },
+  {
+    "Sentiment Score": 0.2292888354,
+    "Average Rating (Out of 5)": 3.9,
+    "NEU_Colleges": "College of Social Sciences and Humanities (CSSH)",
+    "First Name": "Ioannis",
+    "Last Name": "Livanis",
+    "Department": "International Politics"
+  },
+  {
+    "Sentiment Score": 0.1388900914,
+    "Average Rating (Out of 5)": 3.9,
+    "NEU_Colleges": "College of Science (COS)",
+    "First Name": "Grigorios",
+    "Last Name": "Livanis",
+    "Department": "Mathematics"
+  },
+  {
+    "Sentiment Score": 0.1308260892,
+    "Average Rating (Out of 5)": 2.6,
+    "NEU_Colleges": "College of Science (COS)",
+    "First Name": "Steven",
+    "Last Name": "Lopez",
+    "Department": "Chemistry"
+  },
+  {
+    "Sentiment Score": 0.2836075397,
+    "Average Rating (Out of 5)": 4.3,
+    "NEU_Colleges": "D’Amore-McKim School of Business (DMSB)",
+    "First Name": "William",
+    "Last Name": "Lovely",
+    "Department": "Business Administration"
+  },
+  {
+    "Sentiment Score": 0.1314510007,
+    "Average Rating (Out of 5)": 3.9,
+    "NEU_Colleges": "College of Social Sciences and Humanities (CSSH)",
+    "First Name": "Maria",
+    "Last Name": "Luengo-Prado",
+    "Department": "Economics"
+  },
+  {
+    "Sentiment Score": 0.1190189594,
+    "Average Rating (Out of 5)": 2.8,
+    "NEU_Colleges": "College of Social Sciences and Humanities (CSSH)",
+    "First Name": "Katherine",
+    "Last Name": "Luongo",
+    "Department": "History"
+  },
+  {
+    "Sentiment Score": 0.2572761511,
+    "Average Rating (Out of 5)": 4.5,
+    "NEU_Colleges": "College of Science (COS)",
+    "First Name": "Robert",
+    "Last Name": "Lupi",
+    "Department": "Mathematics"
+  },
+  {
+    "Sentiment Score": 0.2950136355,
+    "Average Rating (Out of 5)": 5,
+    "NEU_Colleges": "College of Social Sciences and Humanities (CSSH)",
+    "First Name": "Getty",
+    "Last Name": "Lustila",
+    "Department": "Philosophy"
+  },
+  {
+    "Sentiment Score": 0.0965623612,
+    "Average Rating (Out of 5)": 3,
+    "NEU_Colleges": "College of Science (COS)",
+    "First Name": "Vasiliki",
+    "Last Name": "Lykourinou",
+    "Department": "Chemistry"
+  },
+  {
+    "Sentiment Score": 0.067266917,
+    "Average Rating (Out of 5)": 2.3,
+    "NEU_Colleges": "College of Science (COS)",
+    "First Name": "Patricia",
+    "Last Name": "Mabrouk",
+    "Department": "Chemistry"
+  },
+  {
+    "Sentiment Score": -0.0073991485,
+    "Average Rating (Out of 5)": 2.2,
+    "NEU_Colleges": "D’Amore-McKim School of Business (DMSB)",
+    "First Name": "Michael",
+    "Last Name": "Maggard",
+    "Department": "Business"
+  },
+  {
+    "Sentiment Score": 0.2417934275,
+    "Average Rating (Out of 5)": 4.2,
+    "NEU_Colleges": "College of Science (COS)",
+    "First Name": "Balasubrama",
+    "Last Name": "Maheswaran",
+    "Department": "Physics"
+  },
+  {
+    "Sentiment Score": 0.1365344817,
+    "Average Rating (Out of 5)": 3.3,
+    "NEU_Colleges": "College of Arts, Media, and Design (CAMD)",
+    "First Name": "Luigia (Gina)",
+    "Last Name": "Maiellaro",
+    "Department": "Languages"
+  },
+  {
+    "Sentiment Score": 0.217880117,
+    "Average Rating (Out of 5)": 4.4,
+    "NEU_Colleges": "College of Science (COS)",
+    "First Name": "James",
+    "Last Name": "Marcotte",
+    "Department": "Mathematics"
+  },
+  {
+    "Sentiment Score": 0.1755369291,
+    "Average Rating (Out of 5)": 3.1,
+    "NEU_Colleges": "College of Social Sciences and Humanities (CSSH)",
+    "First Name": "Peter",
+    "Last Name": "Marton",
+    "Department": "Philosophy"
+  },
+  {
+    "Sentiment Score": 0.2095045298,
+    "Average Rating (Out of 5)": 4.1,
+    "NEU_Colleges": "College of Science (COS)",
+    "First Name": "Alex",
+    "Last Name": "Martsinkovsky",
+    "Department": "Mathematics"
+  },
+  {
+    "Sentiment Score": 0.2809256854,
+    "Average Rating (Out of 5)": 4.4,
+    "NEU_Colleges": "Bouvé College of Health Sciences",
+    "First Name": "Jackie",
+    "Last Name": "Mascher",
+    "Department": "Psychology"
+  },
+  {
+    "Sentiment Score": 0.2207362563,
+    "Average Rating (Out of 5)": 4.4,
+    "NEU_Colleges": "College of Science (COS)",
+    "First Name": "David",
+    "Last Name": "Massey",
+    "Department": "Mathematics"
+  },
+  {
+    "Sentiment Score": 0.2056133107,
+    "Average Rating (Out of 5)": 4.3,
+    "NEU_Colleges": "College of Science (COS)",
+    "First Name": "Jude",
+    "Last Name": "Mathews",
+    "Department": "Chemistry"
+  },
+  {
+    "Sentiment Score": 0.2315649138,
+    "Average Rating (Out of 5)": 4.7,
+    "NEU_Colleges": "College of Science (COS)",
+    "First Name": "Dan",
+    "Last Name": "Matthew",
+    "Department": "Chemistry"
+  },
+  {
+    "Sentiment Score": 0.0774476244,
+    "Average Rating (Out of 5)": 2.9,
+    "NEU_Colleges": "College of Social Sciences and Humanities (CSSH)",
+    "First Name": "William",
+    "Last Name": "Mayer",
+    "Department": "Political Science"
+  },
+  {
+    "Sentiment Score": 0.141036186,
+    "Average Rating (Out of 5)": 3.3,
+    "NEU_Colleges": "D’Amore-McKim School of Business (DMSB)",
+    "First Name": "Jack",
+    "Last Name": "Mazur",
+    "Department": "Finance"
+  },
+  {
+    "Sentiment Score": 0.0923283716,
+    "Average Rating (Out of 5)": 3.1,
+    "NEU_Colleges": "D’Amore-McKim School of Business (DMSB)",
+    "First Name": "Paulette",
+    "Last Name": "McCarty",
+    "Department": "Business"
+  },
+  {
+    "Sentiment Score": 0.0378603064,
+    "Average Rating (Out of 5)": 2.3,
+    "NEU_Colleges": "D’Amore-McKim School of Business (DMSB)",
+    "First Name": "Tricia",
+    "Last Name": "McConville",
+    "Department": "Business"
+  },
+  {
+    "Sentiment Score": 0.166853885,
+    "Average Rating (Out of 5)": 3.4,
+    "NEU_Colleges": "D’Amore-McKim School of Business (DMSB)",
+    "First Name": "Robert",
+    "Last Name": "McCullough",
+    "Department": "Business"
+  },
+  {
+    "Sentiment Score": 0.1008985507,
+    "Average Rating (Out of 5)": 3,
+    "NEU_Colleges": "College of Arts, Media, and Design (CAMD)",
+    "First Name": "Matthew",
+    "Last Name": "McDonald",
+    "Department": "Music"
+  },
+  {
+    "Sentiment Score": 0.242802408,
+    "Average Rating (Out of 5)": 4.3,
+    "NEU_Colleges": "College of Science (COS)",
+    "First Name": "Missy",
+    "Last Name": "McElligott",
+    "Department": "Biology"
+  },
+  {
+    "Sentiment Score": 0.202477,
+    "Average Rating (Out of 5)": 4.1,
+    "NEU_Colleges": "College of Engineering (COE)",
+    "First Name": "Seamus",
+    "Last Name": "McGovern",
+    "Department": "Industrial Engineering"
+  },
+  {
+    "Sentiment Score": 0.2306439801,
+    "Average Rating (Out of 5)": 4,
+    "NEU_Colleges": "D’Amore-McKim School of Business (DMSB)",
+    "First Name": "Scot",
+    "Last Name": "McKenney",
+    "Department": "Accounting"
+  },
+  {
+    "Sentiment Score": 0.2673376369,
+    "Average Rating (Out of 5)": 4.7,
+    "NEU_Colleges": "College of Science (COS)",
+    "First Name": "Robert",
+    "Last Name": "McOwen",
+    "Department": "Mathematics"
+  },
+  {
+    "Sentiment Score": 0.1345936253,
+    "Average Rating (Out of 5)": 3.4,
+    "NEU_Colleges": "College of Social Sciences and Humanities (CSSH)",
+    "First Name": "Clay",
+    "Last Name": "McShane",
+    "Department": "History"
+  },
+  {
+    "Sentiment Score": 0.217113326,
+    "Average Rating (Out of 5)": 3.5,
+    "NEU_Colleges": "College of Social Sciences and Humanities (CSSH)",
+    "First Name": "Corina",
+    "Last Name": "Medley",
+    "Department": "Sociology"
+  },
+  {
+    "Sentiment Score": 0.2505900086,
+    "Average Rating (Out of 5)": 4.5,
+    "NEU_Colleges": "College of Engineering (COE)",
+    "First Name": "Waleed",
+    "Last Name": "Meleis",
+    "Department": "Electrical Engineering"
+  },
+  {
+    "Sentiment Score": 0.1956860086,
+    "Average Rating (Out of 5)": 4.3,
+    "NEU_Colleges": "Bouvé College of Health Sciences",
+    "First Name": "Richard",
+    "Last Name": "Melloni",
+    "Department": "Psychology"
+  },
+  {
+    "Sentiment Score": 0.0740850043,
+    "Average Rating (Out of 5)": 3,
+    "NEU_Colleges": "College of Science (COS)",
+    "First Name": "Latika",
+    "Last Name": "Menon",
+    "Department": "Physics"
+  },
+  {
+    "Sentiment Score": 0.347711426,
+    "Average Rating (Out of 5)": 5,
+    "NEU_Colleges": "College of Professional Studies (CPS)",
+    "First Name": "Dan",
+    "Last Name": "Metzger",
+    "Department": "Writing"
+  },
+  {
+    "Sentiment Score": 0.1104006656,
+    "Average Rating (Out of 5)": 3.3,
+    "NEU_Colleges": "College of Social Sciences and Humanities (CSSH)",
+    "First Name": "Michael",
+    "Last Name": "Meyer",
+    "Department": "Philosophy"
+  },
+  {
+    "Sentiment Score": 0.2826258776,
+    "Average Rating (Out of 5)": 4.7,
+    "NEU_Colleges": "Khoury College of Computer Sciences",
+    "First Name": "Vidoje",
+    "Last Name": "Mihajlovikj",
+    "Department": "Computer Science"
+  },
+  {
+    "Sentiment Score": 0.0870339954,
+    "Average Rating (Out of 5)": 2.7,
+    "NEU_Colleges": "College of Social Sciences and Humanities (CSSH)",
+    "First Name": "William",
+    "Last Name": "Miles",
+    "Department": "Political Science"
+  },
+  {
+    "Sentiment Score": -0.0983369321,
+    "Average Rating (Out of 5)": 1.4,
+    "NEU_Colleges": "Khoury College of Computer Sciences",
+    "First Name": "Joydeep",
+    "Last Name": "Mitra",
+    "Department": "Computer Science"
+  },
+  {
+    "Sentiment Score": 0.2310425967,
+    "Average Rating (Out of 5)": 4.6,
+    "NEU_Colleges": "D’Amore-McKim School of Business (DMSB)",
+    "First Name": "Anahit",
+    "Last Name": "Mkrtchyan",
+    "Department": "Finance"
+  },
+  {
+    "Sentiment Score": 0.2351751404,
+    "Average Rating (Out of 5)": 4.1,
+    "NEU_Colleges": "Bouvé College of Health Sciences",
+    "First Name": "Karina",
+    "Last Name": "Money",
+    "Department": "Psychology"
+  },
+  {
+    "Sentiment Score": 0.2535125153,
+    "Average Rating (Out of 5)": 4.3,
+    "NEU_Colleges": "D’Amore-McKim School of Business (DMSB)",
+    "First Name": "Elizabeth",
+    "Last Name": "Moore",
+    "Department": "International Business"
+  },
+  {
+    "Sentiment Score": 0.1135965714,
+    "Average Rating (Out of 5)": 3.2,
+    "NEU_Colleges": "D’Amore-McKim School of Business (DMSB)",
+    "First Name": "Kimberly",
+    "Last Name": "Moreno",
+    "Department": "Accounting"
+  },
+  {
+    "Sentiment Score": 0.1286831157,
+    "Average Rating (Out of 5)": 3.4,
+    "NEU_Colleges": "College of Science (COS)",
+    "First Name": "Enrique",
+    "Last Name": "Moreno",
+    "Department": "Physics"
+  },
+  {
+    "Sentiment Score": 0.1586176518,
+    "Average Rating (Out of 5)": 3.4,
+    "NEU_Colleges": "College of Professional Studies (CPS)",
+    "First Name": "Ted",
+    "Last Name": "Moss",
+    "Department": "English"
+  },
+  {
+    "Sentiment Score": 0.158521176,
+    "Average Rating (Out of 5)": 3.9,
+    "NEU_Colleges": "College of Social Sciences and Humanities (CSSH)",
+    "First Name": "Tania",
+    "Last Name": "Muino Loureiro",
+    "Department": "Spanish"
+  },
+  {
+    "Sentiment Score": 0.0812746452,
+    "Average Rating (Out of 5)": 2.3,
+    "NEU_Colleges": "College of Engineering (COE)",
+    "First Name": "Constantine",
+    "Last Name": "Mukasa",
+    "Department": "Engineering"
+  },
+  {
+    "Sentiment Score": 0.0979979343,
+    "Average Rating (Out of 5)": 2.9,
+    "NEU_Colleges": "D’Amore-McKim School of Business (DMSB)",
+    "First Name": "Jay",
+    "Last Name": "Mulki",
+    "Department": "Marketing"
+  },
+  {
+    "Sentiment Score": 0.1515350368,
+    "Average Rating (Out of 5)": 3.3,
+    "NEU_Colleges": "College of Professional Studies (CPS)",
+    "First Name": "Patrick",
+    "Last Name": "Mullen",
+    "Department": "English"
+  },
+  {
+    "Sentiment Score": 0.1002293535,
+    "Average Rating (Out of 5)": 3.3,
+    "NEU_Colleges": "College of Science (COS)",
+    "First Name": "Leonel",
+    "Last Name": "Murga",
+    "Department": "Chemistry"
+  },
+  {
+    "Sentiment Score": -0.0345038001,
+    "Average Rating (Out of 5)": 2.2,
+    "NEU_Colleges": "College of Professional Studies (CPS)",
+    "First Name": "Susan",
+    "Last Name": "Murley",
+    "Department": "English"
+  },
+  {
+    "Sentiment Score": 0.2003839283,
+    "Average Rating (Out of 5)": 3.6,
+    "NEU_Colleges": "D’Amore-McKim School of Business (DMSB)",
+    "First Name": "Vincent",
+    "Last Name": "Muscolino",
+    "Department": "Finance"
+  },
+  {
+    "Sentiment Score": 0.1577718676,
+    "Average Rating (Out of 5)": 4.1,
+    "NEU_Colleges": "College of Professional Studies (CPS)",
+    "First Name": "Cecelia",
+    "Last Name": "Musselman",
+    "Department": "English"
+  },
+  {
+    "Sentiment Score": 0.0925932874,
+    "Average Rating (Out of 5)": 3.2,
+    "NEU_Colleges": "College of Social Sciences and Humanities (CSSH)",
+    "First Name": "Shakir",
+    "Last Name": "Mustafa",
+    "Department": "Arabic"
+  },
+  {
+    "Sentiment Score": 0.1102650981,
+    "Average Rating (Out of 5)": 3.1,
+    "NEU_Colleges": "D’Amore-McKim School of Business (DMSB)",
+    "First Name": "David",
+    "Last Name": "Myers",
+    "Department": "Finance"
+  },
+  {
+    "Sentiment Score": 0.1439809028,
+    "Average Rating (Out of 5)": 3.9,
+    "NEU_Colleges": "Bouvé College of Health Sciences",
+    "First Name": "Frank",
+    "Last Name": "Naarendorp",
+    "Department": "Psychology"
+  },
+  {
+    "Sentiment Score": 0.2878038777,
+    "Average Rating (Out of 5)": 4.1,
+    "NEU_Colleges": "College of Professional Studies (CPS)",
+    "First Name": "Laurie",
+    "Last Name": "Nardone",
+    "Department": "English"
+  },
+  {
+    "Sentiment Score": 0.1331540132,
+    "Average Rating (Out of 5)": 3.3,
+    "NEU_Colleges": "College of Social Sciences and Humanities (CSSH)",
+    "First Name": "Steve",
+    "Last Name": "Nathanson",
+    "Department": "Philosophy"
+  },
+  {
+    "Sentiment Score": 0.0545729452,
+    "Average Rating (Out of 5)": 2.5,
+    "NEU_Colleges": "D’Amore-McKim School of Business (DMSB)",
+    "First Name": "Carl",
+    "Last Name": "Nelson",
+    "Department": "Business"
+  },
+  {
+    "Sentiment Score": 0.2909916368,
+    "Average Rating (Out of 5)": 3.8,
+    "NEU_Colleges": "College of Professional Studies (CPS)",
+    "First Name": "Carey",
+    "Last Name": "Noland",
+    "Department": "Communication"
+  },
+  {
+    "Sentiment Score": 0.0331458084,
+    "Average Rating (Out of 5)": 2.4,
+    "NEU_Colleges": "College of Professional Studies (CPS)",
+    "First Name": "Matthew",
+    "Last Name": "Noonan",
+    "Department": "English"
+  },
+  {
+    "Sentiment Score": 0.2762401656,
+    "Average Rating (Out of 5)": 4.4,
+    "NEU_Colleges": "College of Professional Studies (CPS)",
+    "First Name": "Ellen",
+    "Last Name": "Noonan",
+    "Department": "English"
+  },
+  {
+    "Sentiment Score": 0.1306550173,
+    "Average Rating (Out of 5)": 3.2,
+    "NEU_Colleges": "College of Engineering (COE)",
+    "First Name": "Brian",
+    "Last Name": "O'Connell",
+    "Department": "Engineering"
+  },
+  {
+    "Sentiment Score": 0.2937725593,
+    "Average Rating (Out of 5)": 4.6,
+    "NEU_Colleges": "D’Amore-McKim School of Business (DMSB)",
+    "First Name": "Robert",
+    "Last Name": "O'Haver",
+    "Department": "Accounting"
+  },
+  {
+    "Sentiment Score": 0.2577800169,
+    "Average Rating (Out of 5)": 4.3,
+    "NEU_Colleges": "D’Amore-McKim School of Business (DMSB)",
+    "First Name": "Peggy",
+    "Last Name": "O'Kelly",
+    "Department": "Accounting"
+  },
+  {
+    "Sentiment Score": 0.1044926304,
+    "Average Rating (Out of 5)": 2.9,
+    "NEU_Colleges": "College of Science (COS)",
+    "First Name": "Don",
+    "Last Name": "O'Malley",
+    "Department": "Biochemistry"
+  },
+  {
+    "Sentiment Score": 0.0820052425,
+    "Average Rating (Out of 5)": 2.9,
+    "NEU_Colleges": "College of Professional Studies (CPS)",
+    "First Name": "David",
+    "Last Name": "Ober",
+    "Department": "English"
+  },
+  {
+    "Sentiment Score": 0.3058938347,
+    "Average Rating (Out of 5)": 4.9,
+    "NEU_Colleges": "College of Science (COS)",
+    "First Name": "Carla",
+    "Last Name": "Oblas",
+    "Department": "Mathematics"
+  },
+  {
+    "Sentiment Score": 0.0921714201,
+    "Average Rating (Out of 5)": 2.2,
+    "NEU_Colleges": "College of Social Sciences and Humanities (CSSH)",
+    "First Name": "Suzanne",
+    "Last Name": "Ogden",
+    "Department": "Political Science"
+  },
+  {
+    "Sentiment Score": 0.1012053571,
+    "Average Rating (Out of 5)": 2.3,
+    "NEU_Colleges": "D’Amore-McKim School of Business (DMSB)",
+    "First Name": "Sven",
+    "Last Name": "Olson",
+    "Department": "Business"
+  },
+  {
+    "Sentiment Score": 0.0681226657,
+    "Average Rating (Out of 5)": 2.6,
+    "NEU_Colleges": "College of Science (COS)",
+    "First Name": "Kay",
+    "Last Name": "Onan",
+    "Department": "Chemistry"
+  },
+  {
+    "Sentiment Score": 0.2957976338,
+    "Average Rating (Out of 5)": 5,
+    "NEU_Colleges": "Khoury College of Computer Sciences",
+    "First Name": "Kaan",
+    "Last Name": "Onarlioglu",
+    "Department": "Computer Science"
+  },
+  {
+    "Sentiment Score": 0.1864424002,
+    "Average Rating (Out of 5)": 3.9,
+    "NEU_Colleges": "College of Science (COS)",
+    "First Name": "Ana",
+    "Last Name": "Otero",
+    "Department": "Biology"
+  },
+  {
+    "Sentiment Score": 0.1499445896,
+    "Average Rating (Out of 5)": 4.2,
+    "NEU_Colleges": "College of Science (COS)",
+    "First Name": "Oyindasola",
+    "Last Name": "Oyelaran",
+    "Department": "Chemistry"
+  },
+  {
+    "Sentiment Score": 0.2191886798,
+    "Average Rating (Out of 5)": 4.4,
+    "NEU_Colleges": "College of Engineering (COE)",
+    "First Name": "Yusuf",
+    "Last Name": "Ozbek",
+    "Department": "Engineering"
+  },
+  {
+    "Sentiment Score": 0.2446472259,
+    "Average Rating (Out of 5)": 4.7,
+    "NEU_Colleges": "College of Science (COS)",
+    "First Name": "Sadettin",
+    "Last Name": "Ozturk",
+    "Department": "Biology"
+  },
+  {
+    "Sentiment Score": 0.1914391951,
+    "Average Rating (Out of 5)": 4.9,
+    "NEU_Colleges": "College of Social Sciences and Humanities (CSSH)",
+    "First Name": "Robert",
+    "Last Name": "Painter",
+    "Department": "Linguistics"
+  },
+  {
+    "Sentiment Score": 0.0760816993,
+    "Average Rating (Out of 5)": 2.9,
+    "NEU_Colleges": "D’Amore-McKim School of Business (DMSB)",
+    "First Name": "Coleen",
+    "Last Name": "Pantalone",
+    "Department": "Finance"
+  },
+  {
+    "Sentiment Score": 0.2723250166,
+    "Average Rating (Out of 5)": 4.5,
+    "NEU_Colleges": "D’Amore-McKim School of Business (DMSB)",
+    "First Name": "Demetra",
+    "Last Name": "Paparounas",
+    "Department": "Business Administration"
+  },
+  {
+    "Sentiment Score": 0.246352236,
+    "Average Rating (Out of 5)": 4.2,
+    "NEU_Colleges": "Khoury College of Computer Sciences",
+    "First Name": "John",
+    "Last Name": "Park",
+    "Department": "Computer Science"
+  },
+  {
+    "Sentiment Score": 0.086028971,
+    "Average Rating (Out of 5)": 1.7,
+    "NEU_Colleges": "D’Amore-McKim School of Business (DMSB)",
+    "First Name": "Kenneth",
+    "Last Name": "Parker",
+    "Department": "Business"
+  },
+  {
+    "Sentiment Score": 0.1602406246,
+    "Average Rating (Out of 5)": 3.6,
+    "NEU_Colleges": "Khoury College of Computer Sciences",
+    "First Name": "Daniel",
+    "Last Name": "Patterson",
+    "Department": "Computer Science"
+  },
+  {
+    "Sentiment Score": 0.254838858,
+    "Average Rating (Out of 5)": 4.1,
+    "NEU_Colleges": "Khoury College of Computer Sciences",
+    "First Name": "Virgiliu",
+    "Last Name": "Pavlu",
+    "Department": "Computer Science"
+  },
+  {
+    "Sentiment Score": -0.0117527116,
+    "Average Rating (Out of 5)": 1.9,
+    "NEU_Colleges": "College of Science (COS)",
+    "First Name": "Sarah",
+    "Last Name": "Peacock",
+    "Department": "Biology"
+  },
+  {
+    "Sentiment Score": 0.2939643706,
+    "Average Rating (Out of 5)": 4.8,
+    "NEU_Colleges": "College of Science (COS)",
+    "First Name": "Lee",
+    "Last Name": "Peng-Lee",
+    "Department": "Mathematics"
+  },
+  {
+    "Sentiment Score": 0.0936437075,
+    "Average Rating (Out of 5)": 3.8,
+    "NEU_Colleges": "College of Social Sciences and Humanities (CSSH)",
+    "First Name": "Judith",
+    "Last Name": "Perrolle",
+    "Department": "Social Science"
+  },
+  {
+    "Sentiment Score": 0.0129038982,
+    "Average Rating (Out of 5)": 1.9,
+    "NEU_Colleges": "College of Science (COS)",
+    "First Name": "Sadie",
+    "Last Name": "Piatt",
+    "Department": "Chemistry"
+  },
+  {
+    "Sentiment Score": 0.2194029376,
+    "Average Rating (Out of 5)": 4.3,
+    "NEU_Colleges": "College of Professional Studies (CPS)",
+    "First Name": "Susan",
+    "Last Name": "Picillo",
+    "Department": "Communication"
+  },
+  {
+    "Sentiment Score": 0.0145214904,
+    "Average Rating (Out of 5)": 2.1,
+    "NEU_Colleges": "D’Amore-McKim School of Business (DMSB)",
+    "First Name": "Marjorie",
+    "Last Name": "Platt",
+    "Department": "Business Administration"
+  },
+  {
+    "Sentiment Score": 0.2053624733,
+    "Average Rating (Out of 5)": 4.5,
+    "NEU_Colleges": "College of Science (COS)",
+    "First Name": "Michael",
+    "Last Name": "Pollastri",
+    "Department": "Chemistry"
+  },
+  {
+    "Sentiment Score": 0.0363886529,
+    "Average Rating (Out of 5)": 2.3,
+    "NEU_Colleges": "College of Science (COS)",
+    "First Name": "Richard",
+    "Last Name": "Porter",
+    "Department": "Mathematics"
+  },
+  {
+    "Sentiment Score": 0.1401940035,
+    "Average Rating (Out of 5)": 2.3,
+    "NEU_Colleges": "D’Amore-McKim School of Business (DMSB)",
+    "First Name": "Gary",
+    "Last Name": "Porter",
+    "Department": "Finance"
+  },
+  {
+    "Sentiment Score": 0.003473275,
+    "Average Rating (Out of 5)": 2.5,
+    "NEU_Colleges": "College of Social Sciences and Humanities (CSSH)",
+    "First Name": "Gerald",
+    "Last Name": "Porter",
+    "Department": "Economics"
+  },
+  {
+    "Sentiment Score": 0.0151176698,
+    "Average Rating (Out of 5)": 2.5,
+    "NEU_Colleges": "College of Science (COS)",
+    "First Name": "Mary- Susan",
+    "Last Name": "Potts",
+    "Department": "Biology"
+  },
+  {
+    "Sentiment Score": 0.0736419702,
+    "Average Rating (Out of 5)": 2.9,
+    "NEU_Colleges": "Bouvé College of Health Sciences",
+    "First Name": "Mary Sue",
+    "Last Name": "Potts-Santone",
+    "Department": "Health Science"
+  },
+  {
+    "Sentiment Score": 0.0999619747,
+    "Average Rating (Out of 5)": 3.2,
+    "NEU_Colleges": "D’Amore-McKim School of Business (DMSB)",
+    "First Name": "Michael",
+    "Last Name": "Power",
+    "Department": "Business"
+  },
+  {
+    "Sentiment Score": 0.3466024142,
+    "Average Rating (Out of 5)": 4.7,
+    "NEU_Colleges": "College of Arts, Media, and Design (CAMD)",
+    "First Name": "Emmett",
+    "Last Name": "Price",
+    "Department": "Music"
+  },
+  {
+    "Sentiment Score": 0.0835543623,
+    "Average Rating (Out of 5)": 3,
+    "NEU_Colleges": "College of Social Sciences and Humanities (CSSH)",
+    "First Name": "Robert",
+    "Last Name": "Pritchard",
+    "Department": "Economics"
+  },
+  {
+    "Sentiment Score": 0.3152199937,
+    "Average Rating (Out of 5)": 4.9,
+    "NEU_Colleges": "Bouvé College of Health Sciences",
+    "First Name": "Mark",
+    "Last Name": "Prokosch",
+    "Department": "Psychology"
+  },
+  {
+    "Sentiment Score": -0.0956689602,
+    "Average Rating (Out of 5)": 1.7,
+    "NEU_Colleges": "Khoury College of Computer Sciences",
+    "First Name": "Viera",
+    "Last Name": "Proulx",
+    "Department": "Computer Science"
+  },
+  {
+    "Sentiment Score": 0.0391663792,
+    "Average Rating (Out of 5)": 1.8,
+    "NEU_Colleges": "College of Science (COS)",
+    "First Name": "Natalia",
+    "Last Name": "Ptitsyna",
+    "Department": "Mathematics"
+  },
+  {
+    "Sentiment Score": 0.0991128399,
+    "Average Rating (Out of 5)": 2.9,
+    "NEU_Colleges": "D’Amore-McKim School of Business (DMSB)",
+    "First Name": "Sheila",
+    "Last Name": "Puffer",
+    "Department": "Business"
+  },
+  {
+    "Sentiment Score": 0.2626672028,
+    "Average Rating (Out of 5)": 4.8,
+    "NEU_Colleges": "College of Social Sciences and Humanities (CSSH)",
+    "First Name": "Malcolm",
+    "Last Name": "Purinton",
+    "Department": "History"
+  },
+  {
+    "Sentiment Score": 0.3190409357,
+    "Average Rating (Out of 5)": 4.1,
+    "NEU_Colleges": "D’Amore-McKim School of Business (DMSB)",
+    "First Name": "Kunyuan",
+    "Last Name": "Qiao",
+    "Department": "Business"
+  },
+  {
+    "Sentiment Score": 0.092278402,
+    "Average Rating (Out of 5)": 3.8,
+    "NEU_Colleges": "Bouvé College of Health Sciences",
+    "First Name": "Dan",
+    "Last Name": "Quinn",
+    "Department": "Psychology"
+  },
+  {
+    "Sentiment Score": 0.1401780447,
+    "Average Rating (Out of 5)": 4.2,
+    "NEU_Colleges": "College of Social Sciences and Humanities (CSSH)",
+    "First Name": "Gordana",
+    "Last Name": "Rabenovic",
+    "Department": "Sociology"
+  },
+  {
+    "Sentiment Score": 0.2636482216,
+    "Average Rating (Out of 5)": 4.5,
+    "NEU_Colleges": "Khoury College of Computer Sciences",
+    "First Name": "John",
+    "Last Name": "Rachlin",
+    "Department": "Computer Science"
+  },
+  {
+    "Sentiment Score": 0.0143493001,
+    "Average Rating (Out of 5)": 2.9,
+    "NEU_Colleges": "College of Science (COS)",
+    "First Name": "Anna",
+    "Last Name": "Radovic",
+    "Department": "Biology"
+  },
+  {
+    "Sentiment Score": 0.2110467759,
+    "Average Rating (Out of 5)": 4.5,
+    "NEU_Colleges": "College of Science (COS)",
+    "First Name": "Marco",
+    "Last Name": "Rainho",
+    "Department": "Mathematics"
+  },
+  {
+    "Sentiment Score": 0.27250855,
+    "Average Rating (Out of 5)": 4.4,
+    "NEU_Colleges": "D’Amore-McKim School of Business (DMSB)",
+    "First Name": "Sriram",
+    "Last Name": "Rajagopalan",
+    "Department": "Management"
+  },
+  {
+    "Sentiment Score": 0.24877145,
+    "Average Rating (Out of 5)": 4.7,
+    "NEU_Colleges": "Khoury College of Computer Sciences",
+    "First Name": "Rajmohan",
+    "Last Name": "Rajaraman",
+    "Department": "Computer Science"
+  },
+  {
+    "Sentiment Score": -0.0657629163,
+    "Average Rating (Out of 5)": 1.3,
+    "NEU_Colleges": "College of Science (COS)",
+    "First Name": "Mark",
+    "Last Name": "Ramras",
+    "Department": "Mathematics"
+  },
+  {
+    "Sentiment Score": -0.0686800193,
+    "Average Rating (Out of 5)": 2.1,
+    "NEU_Colleges": "College of Arts, Media, and Design (CAMD)",
+    "First Name": "Janet",
+    "Last Name": "Randall",
+    "Department": "Languages"
+  },
+  {
+    "Sentiment Score": 0.1742610063,
+    "Average Rating (Out of 5)": 2.8,
+    "NEU_Colleges": "Khoury College of Computer Sciences",
+    "First Name": "Richard",
+    "Last Name": "Rasala",
+    "Department": "Computer Science"
+  },
+  {
+    "Sentiment Score": 0.2321704762,
+    "Average Rating (Out of 5)": 4.9,
+    "NEU_Colleges": "College of Science (COS)",
+    "First Name": "Desislava",
+    "Last Name": "Raytcheva",
+    "Department": "Biology"
+  },
+  {
+    "Sentiment Score": 0.0176373029,
+    "Average Rating (Out of 5)": 2.8,
+    "NEU_Colleges": "Khoury College of Computer Sciences",
+    "First Name": "Leena",
+    "Last Name": "Razzaq",
+    "Department": "Computer Science"
+  },
+  {
+    "Sentiment Score": 0.0085061294,
+    "Average Rating (Out of 5)": 2.2,
+    "NEU_Colleges": "D’Amore-McKim School of Business (DMSB)",
+    "First Name": "James ",
+    "Last Name": "Regan ",
+    "Department": "Accounting"
+  },
+  {
+    "Sentiment Score": 0.1800683682,
+    "Average Rating (Out of 5)": 3.9,
+    "NEU_Colleges": "Bouvé College of Health Sciences",
+    "First Name": "Lesley",
+    "Last Name": "Ricci",
+    "Department": "Psychology"
+  },
+  {
+    "Sentiment Score": 0.0112827225,
+    "Average Rating (Out of 5)": 2.5,
+    "NEU_Colleges": "College of Science (COS)",
+    "First Name": "Christopher",
+    "Last Name": "Richardson",
+    "Department": "Biology"
+  },
+  {
+    "Sentiment Score": 0.1484137336,
+    "Average Rating (Out of 5)": 3.2,
+    "NEU_Colleges": "College of Social Sciences and Humanities (CSSH)",
+    "First Name": "Peter",
+    "Last Name": "Richardson",
+    "Department": "Political Science"
+  },
+  {
+    "Sentiment Score": 0.1902734973,
+    "Average Rating (Out of 5)": 4.7,
+    "NEU_Colleges": "Bouvé College of Health Sciences",
+    "First Name": "Judith",
+    "Last Name": "Richman",
+    "Department": "Health Science"
+  },
+  {
+    "Sentiment Score": 0.153804953,
+    "Average Rating (Out of 5)": 4.3,
+    "NEU_Colleges": "Bouvé College of Health Sciences",
+    "First Name": "David",
+    "Last Name": "Richters",
+    "Department": "Psychology"
+  },
+  {
+    "Sentiment Score": 0.2306195286,
+    "Average Rating (Out of 5)": 4.6,
+    "NEU_Colleges": "D’Amore-McKim School of Business (DMSB)",
+    "First Name": "Chris",
+    "Last Name": "Robertson",
+    "Department": "Business"
+  },
+  {
+    "Sentiment Score": 0.1614466526,
+    "Average Rating (Out of 5)": 3.4,
+    "NEU_Colleges": "College of Social Sciences and Humanities (CSSH)",
+    "First Name": "Ray",
+    "Last Name": "Robinson",
+    "Department": "History"
+  },
+  {
+    "Sentiment Score": 0.0678741497,
+    "Average Rating (Out of 5)": 3.3,
+    "NEU_Colleges": "College of Social Sciences and Humanities (CSSH)",
+    "First Name": "Jennifer",
+    "Last Name": "Robinson",
+    "Department": "Criminal Justice"
+  },
+  {
+    "Sentiment Score": 0.2749803984,
+    "Average Rating (Out of 5)": 4,
+    "NEU_Colleges": "College of Arts, Media, and Design (CAMD)",
+    "First Name": "Holbrook",
+    "Last Name": "Robinson",
+    "Department": "Languages"
+  },
+  {
+    "Sentiment Score": 0.0716683356,
+    "Average Rating (Out of 5)": 3.2,
+    "NEU_Colleges": "College of Social Sciences and Humanities (CSSH)",
+    "First Name": "Kirsten",
+    "Last Name": "Rodine Hardy",
+    "Department": "Political Science"
+  },
+  {
+    "Sentiment Score": 0.0959653598,
+    "Average Rating (Out of 5)": 3.1,
+    "NEU_Colleges": "College of Science (COS)",
+    "First Name": "Becky",
+    "Last Name": "Rosengaus",
+    "Department": "Biology"
+  },
+  {
+    "Sentiment Score": 0.1074048008,
+    "Average Rating (Out of 5)": 3.3,
+    "NEU_Colleges": "College of Science (COS)",
+    "First Name": "Martin",
+    "Last Name": "Ross",
+    "Department": "Environmental Science"
+  },
+  {
+    "Sentiment Score": 0.3059950874,
+    "Average Rating (Out of 5)": 4.5,
+    "NEU_Colleges": "College of Professional Studies (CPS)",
+    "First Name": "Guy",
+    "Last Name": "Rotella",
+    "Department": "English"
+  },
+  {
+    "Sentiment Score": 0.2004516522,
+    "Average Rating (Out of 5)": 3.8,
+    "NEU_Colleges": "D’Amore-McKim School of Business (DMSB)",
+    "First Name": "Alexandra",
+    "Last Name": "Roth",
+    "Department": "Business Administration"
+  },
+  {
+    "Sentiment Score": 0.2322375813,
+    "Average Rating (Out of 5)": 4.6,
+    "NEU_Colleges": "College of Science (COS)",
+    "First Name": "Aaron",
+    "Last Name": "Roth",
+    "Department": "Biology"
+  },
+  {
+    "Sentiment Score": 0.1848739496,
+    "Average Rating (Out of 5)": 4,
+    "NEU_Colleges": "D’Amore-McKim School of Business (DMSB)",
+    "First Name": "Michael",
+    "Last Name": "Ruff",
+    "Department": "Accounting"
+  },
+  {
+    "Sentiment Score": 0.2495058318,
+    "Average Rating (Out of 5)": 4.5,
+    "NEU_Colleges": "D’Amore-McKim School of Business (DMSB)",
+    "First Name": "Bruce",
+    "Last Name": "Russell",
+    "Department": "Business"
+  },
+  {
+    "Sentiment Score": 0.000333985,
+    "Average Rating (Out of 5)": 2.4,
+    "NEU_Colleges": "College of Science (COS)",
+    "First Name": "Jeremy",
+    "Last Name": "Russell",
+    "Department": "Mathematics"
+  },
+  {
+    "Sentiment Score": 0.1508521948,
+    "Average Rating (Out of 5)": 3.9,
+    "NEU_Colleges": "D’Amore-McKim School of Business (DMSB)",
+    "First Name": "Tony",
+    "Last Name": "Russo",
+    "Department": "Accounting"
+  },
+  {
+    "Sentiment Score": 0.2211217949,
+    "Average Rating (Out of 5)": 4.2,
+    "NEU_Colleges": "D’Amore-McKim School of Business (DMSB)",
+    "First Name": "Paula",
+    "Last Name": "Ryan",
+    "Department": "Marketing"
+  },
+  {
+    "Sentiment Score": 0.1582004583,
+    "Average Rating (Out of 5)": 3.6,
+    "NEU_Colleges": "College of Science (COS)",
+    "First Name": "Hanai",
+    "Last Name": "Sadaka",
+    "Department": "Mathematics"
+  },
+  {
+    "Sentiment Score": 0.2520274645,
+    "Average Rating (Out of 5)": 4.5,
+    "NEU_Colleges": "College of Social Sciences and Humanities (CSSH)",
+    "First Name": "Ronald",
+    "Last Name": "Sandler",
+    "Department": "Philosophy"
+  },
+  {
+    "Sentiment Score": 0.2924842923,
+    "Average Rating (Out of 5)": 4.7,
+    "NEU_Colleges": "College of Engineering (COE)",
+    "First Name": "John",
+    "Last Name": "Sangster",
+    "Department": "Engineering"
+  },
+  {
+    "Sentiment Score": 0.1653509204,
+    "Average Rating (Out of 5)": 3.4,
+    "NEU_Colleges": "College of Social Sciences and Humanities (CSSH)",
+    "First Name": "Ahmad",
+    "Last Name": "Saranjam",
+    "Department": "Economics"
+  },
+  {
+    "Sentiment Score": 0.1393211803,
+    "Average Rating (Out of 5)": 3.8,
+    "NEU_Colleges": "Khoury College of Computer Sciences",
+    "First Name": "Prasad",
+    "Last Name": "Saripalli",
+    "Department": "Computer Science"
+  },
+  {
+    "Sentiment Score": 0.10316829,
+    "Average Rating (Out of 5)": 3.2,
+    "NEU_Colleges": "College of Engineering (COE)",
+    "First Name": "Behrooz",
+    "Last Name": "Satvat",
+    "Department": "Chemical Engineering"
+  },
+  {
+    "Sentiment Score": 0.2864301948,
+    "Average Rating (Out of 5)": 4.3,
+    "NEU_Colleges": "College of Social Sciences and Humanities (CSSH)",
+    "First Name": "Paul Khalil",
+    "Last Name": "Saucicer",
+    "Department": "Sociology"
+  },
+  {
+    "Sentiment Score": -0.0572976252,
+    "Average Rating (Out of 5)": 1.3,
+    "NEU_Colleges": "College of Science (COS)",
+    "First Name": "Hannah",
+    "Last Name": "Sayre",
+    "Department": "Chemistry"
+  },
+  {
+    "Sentiment Score": 0.1963500722,
+    "Average Rating (Out of 5)": 4,
+    "NEU_Colleges": "Khoury College of Computer Sciences",
+    "First Name": "Martin",
+    "Last Name": "Schedlbauer",
+    "Department": "Computer & Informational Tech."
+  },
+  {
+    "Sentiment Score": 0.209159516,
+    "Average Rating (Out of 5)": 3.8,
+    "NEU_Colleges": "College of Science (COS)",
+    "First Name": "Hayley",
+    "Last Name": "Schiebel",
+    "Department": "Earth Science"
+  },
+  {
+    "Sentiment Score": 0.1469389835,
+    "Average Rating (Out of 5)": 3.3,
+    "NEU_Colleges": "College of Social Sciences and Humanities (CSSH)",
+    "First Name": "David",
+    "Last Name": "Schmitt",
+    "Department": "Political Science"
+  },
+  {
+    "Sentiment Score": 0.0243740145,
+    "Average Rating (Out of 5)": 2.5,
+    "NEU_Colleges": "Khoury College of Computer Sciences",
+    "First Name": "Walter",
+    "Last Name": "Schnyder",
+    "Department": "Computer Engineering"
+  },
+  {
+    "Sentiment Score": 0.3388565099,
+    "Average Rating (Out of 5)": 4.7,
+    "NEU_Colleges": "College of Arts, Media, and Design (CAMD)",
+    "First Name": "Alan",
+    "Last Name": "Schroeder",
+    "Department": "Journalism"
+  },
+  {
+    "Sentiment Score": 0.2616441198,
+    "Average Rating (Out of 5)": 4.4,
+    "NEU_Colleges": "College of Engineering (COE)",
+    "First Name": "Kathryn",
+    "Last Name": "Schulte-Grahame",
+    "Department": "Engineering"
+  },
+  {
+    "Sentiment Score": 0.1729807992,
+    "Average Rating (Out of 5)": 3.8,
+    "NEU_Colleges": "College of Professional Studies (CPS)",
+    "First Name": "Joseph",
+    "Last Name": "Schwartz",
+    "Department": "Communication Studies"
+  },
+  {
+    "Sentiment Score": 0.0333092069,
+    "Average Rating (Out of 5)": 2.2,
+    "NEU_Colleges": "College of Science (COS)",
+    "First Name": "Martin",
+    "Last Name": "Schwarz, Jr.",
+    "Department": "Mathematics"
+  },
+  {
+    "Sentiment Score": 0.2498661986,
+    "Average Rating (Out of 5)": 4.5,
+    "NEU_Colleges": "College of Science (COS)",
+    "First Name": "Sumi",
+    "Last Name": "Seo",
+    "Department": "Mathematics"
+  },
+  {
+    "Sentiment Score": 0.2070237633,
+    "Average Rating (Out of 5)": 4.4,
+    "NEU_Colleges": "College of Engineering (COE)",
+    "First Name": "Phillip",
+    "Last Name": "Serafim",
+    "Department": "Engineering"
+  },
+  {
+    "Sentiment Score": 0.2073245493,
+    "Average Rating (Out of 5)": 3.7,
+    "NEU_Colleges": "College of Social Sciences and Humanities (CSSH)",
+    "First Name": "Susan",
+    "Last Name": "Setta",
+    "Department": "Philosophy"
+  },
+  {
+    "Sentiment Score": 0.0072205433,
+    "Average Rating (Out of 5)": 2.3,
+    "NEU_Colleges": "College of Science (COS)",
+    "First Name": "Jayant",
+    "Last Name": "Shah",
+    "Department": "Mathematics"
+  },
+  {
+    "Sentiment Score": 0.2721861747,
+    "Average Rating (Out of 5)": 4.1,
+    "NEU_Colleges": "Bouvé College of Health Sciences",
+    "First Name": "William",
+    "Last Name": "Sharp",
+    "Department": "Psychology"
+  },
+  {
+    "Sentiment Score": 0.1838510589,
+    "Average Rating (Out of 5)": 3.7,
+    "NEU_Colleges": "D’Amore-McKim School of Business (DMSB)",
+    "First Name": "Dennis",
+    "Last Name": "Shaughnessy",
+    "Department": "Entrepreneurship"
+  },
+  {
+    "Sentiment Score": 0.146870939,
+    "Average Rating (Out of 5)": 3.8,
+    "NEU_Colleges": "D’Amore-McKim School of Business (DMSB)",
+    "First Name": "Elliot",
+    "Last Name": "Sherman",
+    "Department": "Finance"
+  },
+  {
+    "Sentiment Score": 0.1750478103,
+    "Average Rating (Out of 5)": 3.1,
+    "NEU_Colleges": "College of Science (COS)",
+    "First Name": "Thomas",
+    "Last Name": "Sherman",
+    "Department": "Mathematics"
+  },
+  {
+    "Sentiment Score": 0.1948396391,
+    "Average Rating (Out of 5)": 3.4,
+    "NEU_Colleges": "College of Social Sciences and Humanities (CSSH)",
+    "First Name": "Wally",
+    "Last Name": "Sherwood",
+    "Department": "Criminal Justice"
+  },
+  {
+    "Sentiment Score": 0.1464862734,
+    "Average Rating (Out of 5)": 3.6,
+    "NEU_Colleges": "Khoury College of Computer Sciences",
+    "First Name": "Amit",
+    "Last Name": "Shesh",
+    "Department": "Computer Science"
+  },
+  {
+    "Sentiment Score": 0.2482464336,
+    "Average Rating (Out of 5)": 4.7,
+    "NEU_Colleges": "College of Social Sciences and Humanities (CSSH)",
+    "First Name": "Xiaolin",
+    "Last Name": "Shi",
+    "Department": "Economics"
+  },
+  {
+    "Sentiment Score": 0.075481124,
+    "Average Rating (Out of 5)": 2.9,
+    "NEU_Colleges": "College of Engineering (COE)",
+    "First Name": "Craig",
+    "Last Name": "Shillaber",
+    "Department": "Civil Engineering"
+  },
+  {
+    "Sentiment Score": 0.164401417,
+    "Average Rating (Out of 5)": 3.4,
+    "NEU_Colleges": "D’Amore-McKim School of Business (DMSB)",
+    "First Name": "William",
+    "Last Name": "Shimer",
+    "Department": "Business Administration"
+  },
+  {
+    "Sentiment Score": 0.2419858893,
+    "Average Rating (Out of 5)": 4.3,
+    "NEU_Colleges": "Khoury College of Computer Sciences",
+    "First Name": "Olin",
+    "Last Name": "Shivers",
+    "Department": "Computer Science"
+  },
+  {
+    "Sentiment Score": 0.1591401654,
+    "Average Rating (Out of 5)": 3.3,
+    "NEU_Colleges": "D’Amore-McKim School of Business (DMSB)",
+    "First Name": "Susan",
+    "Last Name": "Sieloff",
+    "Department": "Marketing"
+  },
+  {
+    "Sentiment Score": 0.227957342,
+    "Average Rating (Out of 5)": 4.1,
+    "NEU_Colleges": "College of Social Sciences and Humanities (CSSH)",
+    "First Name": "Peter",
+    "Last Name": "Simon",
+    "Department": "Economics"
+  },
+  {
+    "Sentiment Score": 0.245104317,
+    "Average Rating (Out of 5)": 4.1,
+    "NEU_Colleges": "College of Social Sciences and Humanities (CSSH)",
+    "First Name": "Matthew",
+    "Last Name": "Smith",
+    "Department": "Philosophy"
+  },
+  {
+    "Sentiment Score": 0.0925888278,
+    "Average Rating (Out of 5)": 2.9,
+    "NEU_Colleges": "College of Science (COS)",
+    "First Name": "Henry",
+    "Last Name": "Smith",
+    "Department": "Physics"
+  },
+  {
+    "Sentiment Score": 0.177138601,
+    "Average Rating (Out of 5)": 3.8,
+    "NEU_Colleges": "Bouvé College of Health Sciences",
+    "First Name": "Nancy",
+    "Last Name": "Snyder",
+    "Department": "Psychology"
+  },
+  {
+    "Sentiment Score": 0.157201419,
+    "Average Rating (Out of 5)": 3.2,
+    "NEU_Colleges": "College of Social Sciences and Humanities (CSSH)",
+    "First Name": "Claudia",
+    "Last Name": "Sokol",
+    "Department": "Spanish"
+  },
+  {
+    "Sentiment Score": 0.0033202306,
+    "Average Rating (Out of 5)": 2.3,
+    "NEU_Colleges": "College of Science (COS)",
+    "First Name": "Julian",
+    "Last Name": "Sosnik",
+    "Department": "Biology"
+  },
+  {
+    "Sentiment Score": 0.1991707159,
+    "Average Rating (Out of 5)": 3.6,
+    "NEU_Colleges": "D’Amore-McKim School of Business (DMSB)",
+    "First Name": "Bert",
+    "Last Name": "Spector",
+    "Department": "Business"
+  },
+  {
+    "Sentiment Score": 0.1937294599,
+    "Average Rating (Out of 5)": 4.1,
+    "NEU_Colleges": "D’Amore-McKim School of Business (DMSB)",
+    "First Name": "Denise",
+    "Last Name": "Spencer",
+    "Department": "Managerial Science"
+  },
+  {
+    "Sentiment Score": 0.1581291473,
+    "Average Rating (Out of 5)": 3.4,
+    "NEU_Colleges": "Bouvé College of Health Sciences",
+    "First Name": "Karen",
+    "Last Name": "Spikes",
+    "Department": "Psychology"
+  },
+  {
+    "Sentiment Score": 0.2068267887,
+    "Average Rating (Out of 5)": 3.4,
+    "NEU_Colleges": "Khoury College of Computer Sciences",
+    "First Name": "David",
+    "Last Name": "Sprague",
+    "Department": "Computer Science"
+  },
+  {
+    "Sentiment Score": 0.2288294728,
+    "Average Rating (Out of 5)": 3.9,
+    "NEU_Colleges": "D’Amore-McKim School of Business (DMSB)",
+    "First Name": "Sri",
+    "Last Name": "Srikrishna",
+    "Department": "Entrepreneurship"
+  },
+  {
+    "Sentiment Score": 0.1013224296,
+    "Average Rating (Out of 5)": 3.9,
+    "NEU_Colleges": "D’Amore-McKim School of Business (DMSB)",
+    "First Name": "Kandarp",
+    "Last Name": "Srinivasan",
+    "Department": "Finance"
+  },
+  {
+    "Sentiment Score": 0.0476752239,
+    "Average Rating (Out of 5)": 2.8,
+    "NEU_Colleges": "D’Amore-McKim School of Business (DMSB)",
+    "First Name": "Robert",
+    "Last Name": "Steere",
+    "Department": "Business"
+  },
+  {
+    "Sentiment Score": 0.1434415584,
+    "Average Rating (Out of 5)": 3,
+    "NEU_Colleges": "D’Amore-McKim School of Business (DMSB)",
+    "First Name": "Rachel",
+    "Last Name": "Stewart",
+    "Department": "Marketing"
+  },
+  {
+    "Sentiment Score": 0.3202298809,
+    "Average Rating (Out of 5)": 4.9,
+    "NEU_Colleges": "College of Professional Studies (CPS)",
+    "First Name": "Trudy",
+    "Last Name": "Stone",
+    "Department": "English"
+  },
+  {
+    "Sentiment Score": 0.3078010626,
+    "Average Rating (Out of 5)": 4.6,
+    "NEU_Colleges": "College of Social Sciences and Humanities (CSSH)",
+    "First Name": "Michael",
+    "Last Name": "Stone",
+    "Department": "Economics"
+  },
+  {
+    "Sentiment Score": 0.2670128139,
+    "Average Rating (Out of 5)": 5,
+    "NEU_Colleges": "College of Social Sciences and Humanities (CSSH)",
+    "First Name": "Beck",
+    "Last Name": "Strah",
+    "Department": "Criminal Justice"
+  },
+  {
+    "Sentiment Score": 0.2115891502,
+    "Average Rating (Out of 5)": 4.8,
+    "NEU_Colleges": "Khoury College of Computer Sciences",
+    "First Name": "Laney",
+    "Last Name": "Strange",
+    "Department": "Computer & Informational Tech."
+  },
+  {
+    "Sentiment Score": -0.0448201567,
+    "Average Rating (Out of 5)": 1.6,
+    "NEU_Colleges": "College of Science (COS)",
+    "First Name": "Phyllis",
+    "Last Name": "Strauss",
+    "Department": "Biology"
+  },
+  {
+    "Sentiment Score": 0.2097915127,
+    "Average Rating (Out of 5)": 4.1,
+    "NEU_Colleges": "College of Social Sciences and Humanities (CSSH)",
+    "First Name": "Denis",
+    "Last Name": "Sullivan",
+    "Department": "Political Science"
+  },
+  {
+    "Sentiment Score": 0.196586758,
+    "Average Rating (Out of 5)": 3.7,
+    "NEU_Colleges": "College of Social Sciences and Humanities (CSSH)",
+    "First Name": "Andrew",
+    "Last Name": "Sum",
+    "Department": "Economics"
+  },
+  {
+    "Sentiment Score": 0.0531429173,
+    "Average Rating (Out of 5)": 2.5,
+    "NEU_Colleges": "Khoury College of Computer Sciences",
+    "First Name": "Ravi",
+    "Last Name": "Sundaram",
+    "Department": "Computer Science"
+  },
+  {
+    "Sentiment Score": 0.0768092713,
+    "Average Rating (Out of 5)": 4.4,
+    "NEU_Colleges": "D’Amore-McKim School of Business (DMSB)",
+    "First Name": "Scott",
+    "Last Name": "Swain",
+    "Department": "Marketing"
+  },
+  {
+    "Sentiment Score": 0.211313829,
+    "Average Rating (Out of 5)": 4.2,
+    "NEU_Colleges": "College of Science (COS)",
+    "First Name": "John",
+    "Last Name": "Swain",
+    "Department": "Physics"
+  },
+  {
+    "Sentiment Score": 0.1741220405,
+    "Average Rating (Out of 5)": 3.8,
+    "NEU_Colleges": "D’Amore-McKim School of Business (DMSB)",
+    "First Name": "Richard",
+    "Last Name": "Swasey",
+    "Department": "Business"
+  },
+  {
+    "Sentiment Score": 0.0920145181,
+    "Average Rating (Out of 5)": 2.2,
+    "NEU_Colleges": "Bouvé College of Health Sciences",
+    "First Name": "Amy",
+    "Last Name": "Szarkowski",
+    "Department": "Psychology"
+  },
+  {
+    "Sentiment Score": -0.0090786297,
+    "Average Rating (Out of 5)": 3.2,
+    "NEU_Colleges": "College of Engineering (COE)",
+    "First Name": "Jerry",
+    "Last Name": "Tapper",
+    "Department": "Engineering"
+  },
+  {
+    "Sentiment Score": 0.0106687383,
+    "Average Rating (Out of 5)": 2.3,
+    "NEU_Colleges": "Khoury College of Computer Sciences",
+    "First Name": "Peter",
+    "Last Name": "Tarasewich",
+    "Department": "Computer Science"
+  },
+  {
+    "Sentiment Score": 0.2260218254,
+    "Average Rating (Out of 5)": 3.9,
+    "NEU_Colleges": "D’Amore-McKim School of Business (DMSB)",
+    "First Name": "John",
+    "Last Name": "Teopaco",
+    "Department": "Marketing"
+  },
+  {
+    "Sentiment Score": 0.2203970268,
+    "Average Rating (Out of 5)": 4.2,
+    "NEU_Colleges": "D’Amore-McKim School of Business (DMSB)",
+    "First Name": "Ron",
+    "Last Name": "Thomas",
+    "Department": "Business"
+  },
+  {
+    "Sentiment Score": 0.116232663,
+    "Average Rating (Out of 5)": 3.1,
+    "NEU_Colleges": "D’Amore-McKim School of Business (DMSB)",
+    "First Name": "William",
+    "Last Name": "Tita",
+    "Department": "Business Administration"
+  },
+  {
+    "Sentiment Score": 0.0593778999,
+    "Average Rating (Out of 5)": 3,
+    "NEU_Colleges": "D’Amore-McKim School of Business (DMSB)",
+    "First Name": "Svetlana",
+    "Last Name": "Todorova",
+    "Department": "Business"
+  },
+  {
+    "Sentiment Score": 0.1544040934,
+    "Average Rating (Out of 5)": 3.6,
+    "NEU_Colleges": "College of Science (COS)",
+    "First Name": "Christopher",
+    "Last Name": "Toher",
+    "Department": "Chemistry"
+  },
+  {
+    "Sentiment Score": 0.1508000001,
+    "Average Rating (Out of 5)": 4.2,
+    "NEU_Colleges": "College of Social Sciences and Humanities (CSSH)",
+    "First Name": "Michael",
+    "Last Name": "Tolley",
+    "Department": "Political Science"
+  },
+  {
+    "Sentiment Score": 0.0815003668,
+    "Average Rating (Out of 5)": 3.2,
+    "NEU_Colleges": "College of Social Sciences and Humanities (CSSH)",
+    "First Name": "Liubomir",
+    "Last Name": "Topaloff",
+    "Department": "International Studies"
+  },
+  {
+    "Sentiment Score": 0.244478349,
+    "Average Rating (Out of 5)": 4.5,
+    "NEU_Colleges": "College of Science (COS)",
+    "First Name": "Peter",
+    "Last Name": "Topalov",
+    "Department": "Mathematics"
+  },
+  {
+    "Sentiment Score": 0.0547649573,
+    "Average Rating (Out of 5)": 2.7,
+    "NEU_Colleges": "College of Science (COS)",
+    "First Name": "Thao",
+    "Last Name": "Tran",
+    "Department": "Mathematics"
+  },
+  {
+    "Sentiment Score": 0.0681786616,
+    "Average Rating (Out of 5)": 3.3,
+    "NEU_Colleges": "Khoury College of Computer Sciences",
+    "First Name": "Nathaniel",
+    "Last Name": "Tuck",
+    "Department": "Computer Science"
+  },
+  {
+    "Sentiment Score": 0.1550608484,
+    "Average Rating (Out of 5)": 2.5,
+    "NEU_Colleges": "College of Professional Studies (CPS)",
+    "First Name": "Bonnie",
+    "Last Name": "Tusmith",
+    "Department": "English"
+  },
+  {
+    "Sentiment Score": 0.2332234848,
+    "Average Rating (Out of 5)": 4,
+    "NEU_Colleges": "College of Professional Studies (CPS)",
+    "First Name": "David",
+    "Last Name": "Tutein",
+    "Department": "English"
+  },
+  {
+    "Sentiment Score": 0.0563212736,
+    "Average Rating (Out of 5)": 2.4,
+    "NEU_Colleges": "College of Science (COS)",
+    "First Name": "Dimitre",
+    "Last Name": "Tzigantchev",
+    "Department": "Mathematics"
+  },
+  {
+    "Sentiment Score": 0.082783445,
+    "Average Rating (Out of 5)": 3.6,
+    "NEU_Colleges": "D’Amore-McKim School of Business (DMSB)",
+    "First Name": "Annique",
+    "Last Name": "Un",
+    "Department": "International Business"
+  },
+  {
+    "Sentiment Score": 0.1591450216,
+    "Average Rating (Out of 5)": 3.8,
+    "NEU_Colleges": "College of Social Sciences and Humanities (CSSH)",
+    "First Name": "Dan",
+    "Last Name": "Urman",
+    "Department": "Political Science"
+  },
+  {
+    "Sentiment Score": 0.1441762087,
+    "Average Rating (Out of 5)": 3.8,
+    "NEU_Colleges": "Khoury College of Computer Sciences",
+    "First Name": "Andrew",
+    "Last Name": "van der Poel",
+    "Department": "Computer Science"
+  },
+  {
+    "Sentiment Score": 0.0575040258,
+    "Average Rating (Out of 5)": 2.3,
+    "NEU_Colleges": "College of Science (COS)",
+    "First Name": "Bindu",
+    "Last Name": "Veetel",
+    "Department": "Mathematics"
+  },
+  {
+    "Sentiment Score": 0.1923257482,
+    "Average Rating (Out of 5)": 4.6,
+    "NEU_Colleges": "College of Social Sciences and Humanities (CSSH)",
+    "First Name": "Madhavi",
+    "Last Name": "Venkatesan",
+    "Department": "Economics"
+  },
+  {
+    "Sentiment Score": 0.2455341122,
+    "Average Rating (Out of 5)": 4.3,
+    "NEU_Colleges": "D’Amore-McKim School of Business (DMSB)",
+    "First Name": "Anand",
+    "Last Name": "Venkateswaran",
+    "Department": "Finance"
+  },
+  {
+    "Sentiment Score": 0.0947340871,
+    "Average Rating (Out of 5)": 3.4,
+    "NEU_Colleges": "College of Social Sciences and Humanities (CSSH)",
+    "First Name": "Gustavo",
+    "Last Name": "Vicentini",
+    "Department": "Economics"
+  },
+  {
+    "Sentiment Score": 0.2172498546,
+    "Average Rating (Out of 5)": 4.8,
+    "NEU_Colleges": "D’Amore-McKim School of Business (DMSB)",
+    "First Name": "Kamber",
+    "Last Name": "Vittori",
+    "Department": "Accounting"
+  },
+  {
+    "Sentiment Score": 0.1626819103,
+    "Average Rating (Out of 5)": 3.5,
+    "NEU_Colleges": "College of Science (COS)",
+    "First Name": "Steven",
+    "Last Name": "Vollmer",
+    "Department": "Biology"
+  },
+  {
+    "Sentiment Score": 0.2186990476,
+    "Average Rating (Out of 5)": 3.7,
+    "NEU_Colleges": "Bouvé College of Health Sciences",
+    "First Name": "Hilmar",
+    "Last Name": "Von Strunck",
+    "Department": "Psychology"
+  },
+  {
+    "Sentiment Score": 0.0741361789,
+    "Average Rating (Out of 5)": 3.4,
+    "NEU_Colleges": "College of Science (COS)",
+    "First Name": "Saeqa",
+    "Last Name": "Vrtilek",
+    "Department": "Environmental Science"
+  },
+  {
+    "Sentiment Score": 0.1987782588,
+    "Average Rating (Out of 5)": 3.8,
+    "NEU_Colleges": "College of Social Sciences and Humanities (CSSH)",
+    "First Name": "Stanislav",
+    "Last Name": "Vysotsky",
+    "Department": "Sociology"
+  },
+  {
+    "Sentiment Score": 0.2079581431,
+    "Average Rating (Out of 5)": 4,
+    "NEU_Colleges": "College of Professional Studies (CPS)",
+    "First Name": "Elaine",
+    "Last Name": "Walker",
+    "Department": "Human Resources Management"
+  },
+  {
+    "Sentiment Score": -0.002533939,
+    "Average Rating (Out of 5)": 2.2,
+    "NEU_Colleges": "Khoury College of Computer Sciences",
+    "First Name": "Mitchell",
+    "Last Name": "Wand",
+    "Department": "Computer Science"
+  },
+  {
+    "Sentiment Score": 0.2348959874,
+    "Average Rating (Out of 5)": 4.3,
+    "NEU_Colleges": "College of Arts, Media, and Design (CAMD)",
+    "First Name": "Robert",
+    "Last Name": "Ward",
+    "Department": "Music"
+  },
+  {
+    "Sentiment Score": 0.2168476918,
+    "Average Rating (Out of 5)": 2.9,
+    "NEU_Colleges": "College of Science (COS)",
+    "First Name": "Matthew",
+    "Last Name": "Webber",
+    "Department": "Physics"
+  },
+  {
+    "Sentiment Score": 0.1247783358,
+    "Average Rating (Out of 5)": 2.5,
+    "NEU_Colleges": "College of Science (COS)",
+    "First Name": "Kaitlyn",
+    "Last Name": "Webster",
+    "Department": "Biology"
+  },
+  {
+    "Sentiment Score": 0.2153310604,
+    "Average Rating (Out of 5)": 4.8,
+    "NEU_Colleges": "Bouvé College of Health Sciences",
+    "First Name": "Erienne",
+    "Last Name": "Weine",
+    "Department": "Psychology"
+  },
+  {
+    "Sentiment Score": 0.23902207,
+    "Average Rating (Out of 5)": 4.4,
+    "NEU_Colleges": "College of Engineering (COE)",
+    "First Name": "Joel",
+    "Last Name": "Weinstein",
+    "Department": "Engineering Technology"
+  },
+  {
+    "Sentiment Score": 0.1270759038,
+    "Average Rating (Out of 5)": 3.7,
+    "NEU_Colleges": "College of Social Sciences and Humanities (CSSH)",
+    "First Name": "Mark",
+    "Last Name": "Wells",
+    "Department": "Philosophy"
+  },
+  {
+    "Sentiment Score": 0.0828714383,
+    "Average Rating (Out of 5)": 3,
+    "NEU_Colleges": "College of Social Sciences and Humanities (CSSH)",
+    "First Name": "Alan",
+    "Last Name": "West-Duran",
+    "Department": "Modern Languages"
+  },
+  {
+    "Sentiment Score": 0.0393648707,
+    "Average Rating (Out of 5)": 2.4,
+    "NEU_Colleges": "D’Amore-McKim School of Business (DMSB)",
+    "First Name": "Robert",
+    "Last Name": "Westwater",
+    "Department": "Business"
+  },
+  {
+    "Sentiment Score": 0.3136499622,
+    "Average Rating (Out of 5)": 4.6,
+    "NEU_Colleges": "College of Engineering (COE)",
+    "First Name": "Richard",
+    "Last Name": "Whalen",
+    "Department": "Engineering"
+  },
+  {
+    "Sentiment Score": 0.0572785639,
+    "Average Rating (Out of 5)": 2.1,
+    "NEU_Colleges": "D’Amore-McKim School of Business (DMSB)",
+    "First Name": "Ronald",
+    "Last Name": "Whitfield",
+    "Department": "Finance"
+  },
+  {
+    "Sentiment Score": 0.001744709,
+    "Average Rating (Out of 5)": 2.1,
+    "NEU_Colleges": "College of Science (COS)",
+    "First Name": "Allan",
+    "Last Name": "Widom",
+    "Department": "Physics"
+  },
+  {
+    "Sentiment Score": 0.298058483,
+    "Average Rating (Out of 5)": 4.8,
+    "NEU_Colleges": "College of Science (COS)",
+    "First Name": "Abigail",
+    "Last Name": "Williams",
+    "Department": "Mathematics"
+  },
+  {
+    "Sentiment Score": 0.0045280112,
+    "Average Rating (Out of 5)": 2.4,
+    "NEU_Colleges": "D’Amore-McKim School of Business (DMSB)",
+    "First Name": "Christina",
+    "Last Name": "Williams",
+    "Department": "Accounting"
+  },
+  {
+    "Sentiment Score": 0.0949553995,
+    "Average Rating (Out of 5)": 2.7,
+    "NEU_Colleges": "College of Science (COS)",
+    "First Name": "Elizabeth",
+    "Last Name": "Wilson",
+    "Department": "Mathematics"
+  },
+  {
+    "Sentiment Score": 0.1007730913,
+    "Average Rating (Out of 5)": 2.8,
+    "NEU_Colleges": "College of Social Sciences and Humanities (CSSH)",
+    "First Name": "Sheila",
+    "Last Name": "Winborne",
+    "Department": "Philosophy"
+  },
+  {
+    "Sentiment Score": 0.2779544838,
+    "Average Rating (Out of 5)": 4.7,
+    "NEU_Colleges": "D’Amore-McKim School of Business (DMSB)",
+    "First Name": "Fredrick",
+    "Last Name": "Wiseman",
+    "Department": "Business"
+  },
+  {
+    "Sentiment Score": 0.2747267859,
+    "Average Rating (Out of 5)": 4.2,
+    "NEU_Colleges": "D’Amore-McKim School of Business (DMSB)",
+    "First Name": "Annie",
+    "Last Name": "Witte",
+    "Department": "Accounting"
+  },
+  {
+    "Sentiment Score": 0.2421931624,
+    "Average Rating (Out of 5)": 4.5,
+    "NEU_Colleges": "College of Science (COS)",
+    "First Name": "Ed",
+    "Last Name": "Witten",
+    "Department": "Chemistry"
+  },
+  {
+    "Sentiment Score": 0.2693457143,
+    "Average Rating (Out of 5)": 4.1,
+    "NEU_Colleges": "D’Amore-McKim School of Business (DMSB)",
+    "First Name": "Frederick",
+    "Last Name": "Wright",
+    "Department": "Marketing"
+  },
+  {
+    "Sentiment Score": 0.1718784596,
+    "Average Rating (Out of 5)": 3.8,
+    "NEU_Colleges": "College of Science (COS)",
+    "First Name": "Shu-Shih",
+    "Last Name": "Wu",
+    "Department": "Mathematics"
+  },
+  {
+    "Sentiment Score": 0.0800903491,
+    "Average Rating (Out of 5)": 3,
+    "NEU_Colleges": "D’Amore-McKim School of Business (DMSB)",
+    "First Name": "Shiawee",
+    "Last Name": "Yang",
+    "Department": "Finance"
+  },
+  {
+    "Sentiment Score": 0.0225172711,
+    "Average Rating (Out of 5)": 2,
+    "NEU_Colleges": "Khoury College of Computer Sciences",
+    "First Name": "Roi",
+    "Last Name": "Yehoshua",
+    "Department": "Computer Science"
+  },
+  {
+    "Sentiment Score": 0.2095228074,
+    "Average Rating (Out of 5)": 4,
+    "NEU_Colleges": "College of Social Sciences and Humanities (CSSH)",
+    "First Name": "Benjamin",
+    "Last Name": "Yelle",
+    "Department": "Philosophy"
+  },
+  {
+    "Sentiment Score": 0.241004902,
+    "Average Rating (Out of 5)": 4.9,
+    "NEU_Colleges": "College of Science (COS)",
+    "First Name": "Ayce",
+    "Last Name": "Yesilaltay",
+    "Department": "Biology"
+  },
+  {
+    "Sentiment Score": 0.2469713421,
+    "Average Rating (Out of 5)": 4.4,
+    "NEU_Colleges": "College of Science (COS)",
+    "First Name": "Nizar",
+    "Last Name": "Zaarour",
+    "Department": "Mathematics"
+  },
+  {
+    "Sentiment Score": 0.3021130952,
+    "Average Rating (Out of 5)": 4.8,
+    "NEU_Colleges": "College of Professional Studies (CPS)",
+    "First Name": "Alan",
+    "Last Name": "Zaremba",
+    "Department": "Communication Studies"
+  },
+  {
+    "Sentiment Score": 0.0763017654,
+    "Average Rating (Out of 5)": 2.8,
+    "NEU_Colleges": "Bouvé College of Health Sciences",
+    "First Name": "Michele",
+    "Last Name": "Zee",
+    "Department": "Psychology"
+  },
+  {
+    "Sentiment Score": 0.2063757844,
+    "Average Rating (Out of 5)": 4.3,
+    "NEU_Colleges": "D’Amore-McKim School of Business (DMSB)",
+    "First Name": "Yue",
+    "Last Name": "Zhang",
+    "Department": "Accounting"
+  },
+  {
+    "Sentiment Score": 0.2783781362,
+    "Average Rating (Out of 5)": 4.6,
+    "NEU_Colleges": "College of Social Sciences and Humanities (CSSH)",
+    "First Name": "Sali",
+    "Last Name": "Ziane",
+    "Department": "Modern Languages"
+  },
+  {
+    "Sentiment Score": 0.0590474121,
+    "Average Rating (Out of 5)": 1.9,
+    "NEU_Colleges": "College of Professional Studies (CPS)",
+    "First Name": "Carol",
+    "Last Name": "Ziemian",
+    "Department": "English"
+  },
+  {
+    "Sentiment Score": 0.2525586392,
+    "Average Rating (Out of 5)": 4.3,
+    "NEU_Colleges": "College of Professional Studies (CPS)",
+    "First Name": "Gregory",
+    "Last Name": "Zuch",
+    "Department": "Writing"
+  },
+  {
+    "Sentiment Score": 0.1216469764,
+    "Average Rating (Out of 5)": 3.4,
+    "NEU_Colleges": "D’Amore-McKim School of Business (DMSB)",
+    "First Name": "Ronald C.",
+    "Last Name": "Zullo",
+    "Department": "Accounting"
+  }
+]

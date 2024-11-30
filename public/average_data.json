@@ -1,0 +1,52 @@
+[
+  {
+    "NEU_Colleges": "Bouvé College of Health Sciences",
+    "Sentiment Score": 0.1962071425,
+    "Average Rating (Out of 5)": 3.7616740088
+  },
+  {
+    "NEU_Colleges": "College of Arts, Media, and Design (CAMD)",
+    "Sentiment Score": 0.1979210567,
+    "Average Rating (Out of 5)": 3.7791489362
+  },
+  {
+    "NEU_Colleges": "College of Engineering (COE)",
+    "Sentiment Score": 0.1482250768,
+    "Average Rating (Out of 5)": 3.4760330579
+  },
+  {
+    "NEU_Colleges": "College of Professional Studies (CPS)",
+    "Sentiment Score": 0.1984496352,
+    "Average Rating (Out of 5)": 3.8079365079
+  },
+  {
+    "NEU_Colleges": "College of Science (COS)",
+    "Sentiment Score": 0.1546511094,
+    "Average Rating (Out of 5)": 3.5104508197
+  },
+  {
+    "NEU_Colleges": "College of Social Sciences and Humanities (CSSH)",
+    "Sentiment Score": 0.1834087126,
+    "Average Rating (Out of 5)": 3.774017094
+  },
+  {
+    "NEU_Colleges": "D’Amore-McKim School of Business (DMSB)",
+    "Sentiment Score": 0.1712877433,
+    "Average Rating (Out of 5)": 3.5930320151
+  },
+  {
+    "NEU_Colleges": "Khoury College of Computer Sciences",
+    "Sentiment Score": 0.1363190195,
+    "Average Rating (Out of 5)": 3.1973282443
+  },
+  {
+    "NEU_Colleges": "School of Law",
+    "Sentiment Score": 0.1979997297,
+    "Average Rating (Out of 5)": 3.8611111111
+  },
+  {
+    "NEU_Colleges": "Unknown",
+    "Sentiment Score": 0.188550769,
+    "Average Rating (Out of 5)": 3.8692307692
+  }
+]

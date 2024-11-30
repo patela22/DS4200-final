@@ -1,4 +1,5 @@
 import streamlit as st
+import streamlit.components.v1 as components
 import pandas as pd
 import numpy as np
 import altair as alt
@@ -208,6 +209,11 @@ try:
     plt.suptitle('Scatter Plot of Level of Difficulty vs Average Rating per College', y=1.05)
     plt.tight_layout()
     st.pyplot()
+
+    st.subheader("Sentiment Score vs Average Rating for Professors from Northeastern Colleges")
+    with open("public/college_sentiment_analysis.html", "r") as f:
+        html_string = f.read()
+    components.html(html_string, height=1400, width=900)
 
 except FileNotFoundError:
     st.error("Data file not found. Please ensure 'northeastern_rmp_data_updated.csv' is in the same directory as this script.")
