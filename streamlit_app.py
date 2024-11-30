@@ -145,24 +145,6 @@ try:
 
     st.altair_chart(styled_heatmap, use_container_width=True)
 
-    # Prepare data for word cloud by extracting Popular Tags
-    all_tags = data['Popular Tags'].tolist()
-
-    # Create a single string of all tags for word cloud input
-    all_tags_flat = [tag for sublist in all_tags for tag in (sublist if isinstance(sublist, list) else [sublist])]
-    tags_string = " ".join(all_tags_flat)
-
-    # Generate the word cloud
-    wordcloud = WordCloud(width=800, height=400, background_color='white', colormap='viridis').generate(tags_string)
-
-    # Plot the word cloud
-    fig, ax = plt.subplots(figsize=(10, 5))
-    ax.imshow(wordcloud, interpolation='bilinear')
-    ax.axis('off')
-
-    # Display the word cloud in Streamlit
-    st.pyplot(fig)
-
     # Filter for histogram chart
     filtered_df = data[(data['NEU_Colleges'].isin(colleges)) & (data['Number of Ratings'] >= 3) & (~data['NEU_Colleges'].str.contains('Unknown'))]
 
