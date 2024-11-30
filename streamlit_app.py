@@ -191,24 +191,38 @@ try:
 
     # Scatter plot of Level of Difficulty vs Average Rating
     df_cleaned = data.dropna(subset=['Level of Difficulty (Out of 5)', 'Average Rating (Out of 5)'])
-    df_cleaned = df_cleaned[(df_cleaned['Number of Ratings'] >= 5) & (~df_cleaned['NEU_Colleges'].str.contains('Unknown'))]
+    df_cleaned = df_cleaned[(df_cleaned['Number of Ratings'] >= 5) & (~df_cleaned['NEU_Colleges'].str.contains('Unknown')) & (~df_cleaned['NEU_Colleges'].str.contains('School of Law')) ]
+    df_cleaned['Level of Difficulty (Out of 5)'] = pd.to_numeric(df_cleaned['Level of Difficulty (Out of 5)'], errors='coerce')
+    df_cleaned['Average Rating (Out of 5)'] = pd.to_numeric(df_cleaned['Average Rating (Out of 5)'], errors='coerce')
+    df_cleaned = df_cleaned.dropna(subset=['Level of Difficulty (Out of 5)', 'Average Rating (Out of 5)'])
 
-    plt.figure(figsize=(10, 6))
-    sns.scatterplot(data=df_cleaned, x='Level of Difficulty (Out of 5)', y='Average Rating (Out of 5)', hue='NEU_Colleges')
-    plt.xlabel('Level of Difficulty (Out of 5)')
-    plt.ylabel('Average Rating (Out of 5)')
-    plt.title('Scatter Plot of Level of Difficulty vs Average Rating with College Hue')
-    plt.legend(title='Hue Legend')
-    st.pyplot()
+    # Precompute correlation for each college
+    correlation_data = (
+        df_cleaned.groupby('NEU_Colleges')
+        .apply(lambda group: np.corrcoef(group['Level of Difficulty (Out of 5)'], group['Average Rating (Out of 5)'])[0, 1])
+        .reset_index(name='correlation')
+    )
 
-    # Facet grid for each college
+    # Create FacetGrid
     g = sns.FacetGrid(df_cleaned, col='NEU_Colleges', col_wrap=3, height=4, sharex=True, sharey=True)
-    g.map_dataframe(sns.scatterplot, x='Level of Difficulty (Out of 5)', y='Average Rating (Out of 5)')
+
+    # Map scatterplot
+    g.map_dataframe(sns.scatterplot, x='Level of Difficulty (Out of 5)', y='Average Rating (Out of 5)', color='coral')
+
+    # Annotate each facet with its correlation coefficient
+    for ax, col_name in zip(g.axes.flat, g.col_names):
+        if col_name in correlation_data['NEU_Colleges'].values:
+            corr = correlation_data.loc[correlation_data['NEU_Colleges'] == col_name, 'correlation'].values[0]
+            ax.text(0.95, 0.95, f"R = {corr:.2f}", transform=ax.transAxes,
+                    ha='left', va='top', fontsize=10, bbox=dict(boxstyle='round', facecolor='white', alpha=0.5))
+
+    # Add labels and title
     g.set_axis_labels('Level of Difficulty (Out of 5)', 'Average Rating (Out of 5)')
     g.set_titles("{col_name}")
     plt.suptitle('Scatter Plot of Level of Difficulty vs Average Rating per College', y=1.05)
     plt.tight_layout()
     st.pyplot()
+
 
     st.subheader("Sentiment Score vs Average Rating for Professors from Northeastern Colleges")
     with open("public/college_sentiment_analysis.html", "r") as f:
