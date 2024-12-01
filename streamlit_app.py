@@ -13,7 +13,7 @@ st.title("Interactive Tag Analysis for NEU Colleges")
 # Load CSV file directly
 try:
     # Provide the file path directly
-    FILE_PATH = 'northeastern_rmp_data_updated.csv'
+    FILE_PATH = 'data/northeastern_rmp_data_updated.csv'
     data = pd.read_csv(FILE_PATH)
 
     # Parse Popular Tags and ensure it's a list

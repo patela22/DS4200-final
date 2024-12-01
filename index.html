@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Interactive Tag Analysis for NEU Colleges</title>
+    <link rel="stylesheet" href="styles.css">
+    <!-- Include D3.js -->
+    <script src="https://d3js.org/d3.v7.min.js"></script>
+    <!-- Include Chart.js -->
+    <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+    <!-- Include Vega-Lite -->
+    <script src="https://cdn.jsdelivr.net/npm/vega@5"></script>
+    <script src="https://cdn.jsdelivr.net/npm/vega-lite@5"></script>
+    <script src="https://cdn.jsdelivr.net/npm/vega-embed@6"></script>
+    <!-- Include WordCloud.js -->
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/wordcloud2.js/1.1.0/wordcloud2.min.js"></script>
+</head>
+<body>
+    <div class="container">
+        <h1>Interactive Tag Analysis for NEU Colleges</h1>
+
+        <!-- Dropdown for College Selection -->
+        <div class="controls">
+            <label for="college-select">Select College:</label>
+            <select id="college-select"></select>
+        </div>
+
+        <!-- Tag Frequency Bar Chart -->
+        <div id="tag-chart"></div>
+
+        <!-- Comments Section -->
+        <div id="comments-chart"></div>
+
+        <!-- Metrics Heatmap -->
+        <div id="heatmap"></div>
+
+        <!-- Histogram Chart -->
+        <div id="histogram-chart"></div>
+
+        <!-- Scatter Plot -->
+        <div id="scatterplot"></div>
+
+        <!-- Word Cloud -->
+        <canvas id="wordcloud" width="800" height="400"></canvas>
+
+        <!-- Embedded HTML Content -->
+        <div id="sentiment-analysis">
+            <!-- Sentiment Analysis HTML will be embedded here -->
+        </div>
+    </div>
+
+    <script src="script.js"></script>
+</body>
+</html>
