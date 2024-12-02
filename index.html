@@ -9,7 +9,53 @@
     <script src="https://cdn.jsdelivr.net/npm/vega-embed@6"></script>
   </head>
   <body>
-    <h1>Graphs</h1>
+    <h1>Analyzing Northeastern Rate My Professor Data</h1>
+    <h3>By: Paul Champagne, Trung Nguyen, Ansh Patel, & Owen Sharpe</h3>
+
+    <div class="chart-container">
+      <h2>Topics, Tasks, and Goals</h2>
+      <p>
+        Our research question stated, "Which colleges/departments in
+        Northeastern University have the best-rated professors, and how does the
+        distribution of average ratings vary across these departments?"
+      </p>
+
+      <p>
+        Our main goal was to observe the differences in subjective ability
+        between the professors at Northeastern University. We used subjective
+        scoring data through RateMyProfessor to draw insights into which
+        Northeastern colleges perform better than others.
+      </p>
+
+      <p>
+        We wanted to give students helpful information to make better choices
+        when picking their classes. Additionally, this analysis can provide the
+        university with a clearer picture of teaching quality across its
+        colleges, showing where things are going well and where there might be
+        room for improvement.
+      </p>
+    </div>
+
+    <div class="chart-container">
+      <h2>Data</h2>
+      <p>
+        The initial scraped dataset consisted of 3494 rows and 15 columns, with
+        various numerical and categorical features such as professor name,
+        department, college, rating, level of difficulty, reviews, and several
+        others.
+      </p>
+
+      <p>
+        We collected the data partly by scraping the RateMyProfessor website,
+        with some help from an available API.
+      </p>
+
+      <p>
+        Once the data was collected, we preprocessed certain columns and rows to
+        deal with NaN values and other issues, so the data could be ready for
+        visualization.
+      </p>
+    </div>
 
     <div class="chart-container">
       <h2>Graph 1</h2>
@@ -24,10 +70,49 @@
     <div class="chart-container">
       <h2>Graph 3</h2>
       <div id="vis-histogram"></div>
+      <p>
+        The histogram above shows the distribution of average ratings for
+        professors in different Northeastern Colleges. The user can interact
+        with the chart by choosing the college of their choice with the drop
+        down selector, and the histograms will update to reflect the user input.
+        We can see a common pattern in the distribution of ratings for CSSH,
+        Bouve College, CAMD, COS, and CPS. These colleges have a solid
+        incremental up trend in their ratings, where as the ratings go up, so
+        does the number of professors. COE and DMSB also have a generally more
+        skewed right distribution, but it is not as evident the previously
+        mentioned colleges. Khoury has the most mixed distribution compared to
+        all colleges at Northeastern, with their ratings distributed in the 2.0
+        to 5.0 range. Overall, the main takaway from these histograms is that
+        colleges who are more skewed right have a general tendency to have more
+        professors that are liked by its students and that Northeastern
+        generally has professors that have high ratings of 4 or above and the
+        highests frequency for all colleges are professors with a rating of 4.5
+        to 5. This can help guide students when debating in which college(s)
+        they want to study in, given that higher ratings are favoured.
+      </p>
     </div>
 
     <div class="chart-container">
       <img class="chart-img" src="graphs/scattplot_facets.png" />
+      <p>
+        Students across universities may be under the belief that the more
+        difficult a course is, the more likely that professor will have a lower
+        rating. However, from the scatterplots above, which depicts the
+        relationship between Average Rating and Level of Difficulty for
+        professors across Northeastern colleges, we can see the correlations are
+        all somewhat negative, but not to the extent one may expect. For most
+        colleges we see fairly mild negative correlations, ranging from -0.37 to
+        -0.52, which cannot concretely denote that higher levels of difficulties
+        correlate with lower average ratings. The only expections are for Bouve
+        and Khoury, which respectively have a -0.67 and -0.20 correlation. From
+        these, we can be more confident that levels of difficulty do lead to
+        lower average ratings for the former, while there is a negligible
+        correlation for the latter. Overall, this goes to show that for a
+        majority of colleges at NEU, students should not necessarily be biased
+        towards certain professors simply because of the difficulty of the
+        course and that, one the hand, a higher rating does not necessarily
+        signify that a professor is teaching an easier course.
+      </p>
     </div>
 
     <div class="chart-container">

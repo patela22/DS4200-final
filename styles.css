@@ -14,19 +14,30 @@ body {
 
 h1 {
   font-size: 2.5rem;
-  color: #444;
+  color: #00796b;
   text-align: center;
 }
 h2 {
   font-size: 1.8rem;
-  color: #555;
-}
-
-h1,
-h2 {
   color: #00796b;
 }
 
+h3 {
+  font-size: 1.2rem;
+  color: #024b43;
+  text-align: center;
+}
+
+h1,
+h2,
+h3 {
+  text-align: center;
+}
+
+p {
+  margin: 20px 0;
+  text-align: center;
+}
 .controls {
   margin-bottom: 30px;
   text-align: center;
