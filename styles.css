@@ -1,28 +1,39 @@
 /* styles.css */
 
 body {
-    font-family: Arial, sans-serif;
-    margin: 0;
-    padding: 0;
-    background-color: #f4f4f4;
+  font-family: "Roboto", sans-serif;
+  font-size: 16px;
+  line-height: 1.6;
+  background: linear-gradient(135deg, #e0f7fa, #ffffff);
 }
-
 .container {
-    width: 90%;
-    margin: auto;
-    overflow: hidden;
-    padding: 20px;
+  width: 90%;
+  margin: auto;
+  overflow: hidden;
 }
 
 h1 {
-    text-align: center;
-    color: #333;
-    margin-bottom: 40px;
+  font-size: 2.5rem;
+  color: #444;
+  text-align: center;
+}
+h2 {
+  font-size: 1.8rem;
+  color: #555;
+}
+
+h1,
+h2 {
+  color: #00796b;
 }
 
 .controls {
-    margin-bottom: 20px;
-    text-align: center;
+  margin-bottom: 30px;
+  text-align: center;
+  padding: 10px;
+  background-color: #00796b;
+  color: white;
+  border-radius: 5px;
 }
 
 #tag-chart,
@@ -32,12 +43,12 @@ h1 {
 #scatterplot,
 #wordcloud,
 #sentiment-analysis {
-    margin-bottom: 50px;
+  margin-bottom: 50px;
 }
 
 canvas {
-    display: block;
-    margin: auto;
+  display: block;
+  margin: auto;
 }
 
 .tooltip {
@@ -53,4 +64,43 @@ canvas {
 
 .chart {
   margin-bottom: 50px;
+}
+
+.chart-container {
+  display: flex;
+  flex-direction: column;
+  align-items: center; /* Centers the graph and text horizontally */
+  justify-content: flex-start; /* Aligns content at the top */
+  margin: 20px auto;
+  border: 1px solid #ddd;
+  border-radius: 8px;
+  background-color: #ffffff;
+  padding: 20px; /* Adds some inner spacing */
+  max-width: 90%; /* Constrain the width */
+}
+
+.chart-container h2 {
+  text-align: center;
+  margin-bottom: 20px;
+}
+
+#vis-histogram,
+#scatterplot-individual,
+#scatterplot-averages {
+  display: block; /* Ensures it behaves like a block element */
+  margin: 0 auto; /* Centers the graph horizontally */
+  width: 100%; /* Occupies the full width of the container */
+  max-width: 800px; /* Prevents the graph from exceeding the container width */
+  height: auto; /* Maintains the aspect ratio */
+}
+
+.chart-img {
+  margin: 0 auto;
+  display: block;
+  max-width: 100%;
+}
+
+.chart-container > div {
+  display: block;
+  width: 100%;
 }
