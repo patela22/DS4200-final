@@ -1,49 +1,41 @@
 (function (vegaEmbed) {
   var spec = {
     config: {
-      view: { continuousWidth: 300, continuousHeight: 300, strokeWidth: 0 },
+      view: { continuousWidth: 1000, continuousHeight: 600 },
       axis: {
-        labelAngle: 45,
-        labelFontSize: 12,
-        titleColor: "darkblue",
-        titleFontSize: 16,
-      },
-      legend: {
-        gradientLength: 300,
-        gradientThickness: 20,
+        labelAngle: 0,
         labelFontSize: 14,
         titleColor: "darkblue",
-        titleFontSize: 16,
+        titleFontSize: 18,
       },
-      title: { anchor: "start", color: "darkblue", fontSize: 22 },
+      title: { anchor: "middle", color: "darkblue", fontSize: 26 },
     },
     data: { name: "data-4317fed771d2ba7158de70f5ee13dd53" },
-    mark: { type: "rect" },
+    mark: { type: "bar" },
     encoding: {
-      color: {
+      color: { field: "NEU_Colleges", legend: null, type: "nominal" },
+      tooltip: [
+        { field: "Metric", title: "Metric", type: "nominal" },
+        { field: "NEU_Colleges", title: "College", type: "nominal" },
+        {
+          field: "Value",
+          format: ".2f",
+          title: "Metric Value",
+          type: "quantitative",
+        },
+      ],
+      x: {
+        bin: { maxbins: 30 },
         field: "Value",
-        scale: { domain: [0, 5], scheme: "plasma" },
         title: "Metric Value",
         type: "quantitative",
       },
-      tooltip: [
-        { field: "Department", title: "Department", type: "nominal" },
-        { field: "NEU_Colleges", title: "College", type: "nominal" },
-        { field: "Metric", title: "Metric", type: "nominal" },
-        { field: "Value", format: ".2f", title: "Value", type: "quantitative" },
-      ],
-      x: {
-        field: "Department",
-        sort: "-y",
-        title: "Department",
-        type: "nominal",
-      },
-      y: { field: "NEU_Colleges", title: "College", type: "nominal" },
+      y: { aggregate: "count", title: "Frequency", type: "quantitative" },
     },
-    height: 600,
+    height: 500,
     params: [
       {
-        name: "param_27",
+        name: "param_9",
         select: { type: "point", fields: ["NEU_Colleges"] },
         bind: {
           input: "select",
@@ -63,7 +55,7 @@
         },
       },
       {
-        name: "param_28",
+        name: "param_10",
         select: { type: "point", fields: ["Metric"] },
         bind: {
           input: "select",
@@ -78,17 +70,17 @@
       },
     ],
     title: {
-      text: ["Heatmap: Insights on Northeastern Ratings"],
-      subtitle: ["Visualizing department-level metrics across colleges."],
-      fontSize: 20,
-      subtitleFontSize: 15,
+      text: ["Distribution of Metric Values Across Colleges"],
+      subtitle: ["Filter by College and Metric for deeper insights"],
+      fontSize: 24,
+      subtitleFontSize: 18,
       color: "darkblue",
       subtitleColor: "gray",
       anchor: "start",
     },
     transform: [
-      { filter: { param: "param_27" } },
-      { filter: { param: "param_28" } },
+      { filter: { param: "param_9" } },
+      { filter: { param: "param_10" } },
     ],
     width: 900,
     $schema: "https://vega.github.io/schema/vega-lite/v5.17.0.json",
@@ -83966,8 +83958,8 @@
       "</div>";
     throw error;
   }
-  const el = document.getElementById("vis-heatmap");
-  vegaEmbed("#vis-heatmap", spec, embedOpt).catch((error) =>
+  const el = document.getElementById("vis-interactive-histogram");
+  vegaEmbed("#vis-interactive-histogram", spec, embedOpt).catch((error) =>
     showError(el, error)
   );
 })(vegaEmbed);

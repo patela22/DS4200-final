@@ -13,17 +13,17 @@ body {
 }
 
 h1 {
-  font-size: 2.5rem;
+  font-size: 3rem;
   color: #00796b;
   text-align: center;
 }
 h2 {
-  font-size: 1.8rem;
+  font-size: 2.5rem;
   color: #00796b;
 }
 
 h3 {
-  font-size: 1.2rem;
+  font-size: 1.8rem;
   color: #024b43;
   text-align: center;
 }
@@ -37,6 +37,7 @@ h3 {
 p {
   margin: 20px 0;
   text-align: center;
+  font-size: 1.5rem;
 }
 .controls {
   margin-bottom: 30px;
@@ -49,7 +50,7 @@ p {
 
 #tag-chart,
 #comments-chart,
-#heatmap,
+#vis-interactive-histogram,
 #histogram-chart,
 #scatterplot,
 #wordcloud,

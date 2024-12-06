@@ -95,8 +95,8 @@
     </div>
 
     <div class="chart-container">
-      <h2>Heatmap of Metric Distribution by Different Majors</h2>
-      <div id="vis-heatmap"></div>
+      <h2>Interactive Histogram of Metric Distribution by Different Majors</h2>
+      <div id="vis-interactive-histogram"></div>
       <p>
         The dataset explores ratings and metrics across various colleges and
         departments at Northeastern University, focusing on attributes like
@@ -112,7 +112,11 @@
     </div>
 
     <div class="chart-container">
-      <img class="chart-img" src="graphs/scattplot_facets.png" />
+      <h2>
+        Scatterplot Plot Relation with Average Professor Rating and Course
+        Difficulty
+      </h2>
+      <img class="chart-img" src="graphs/scatterplot_facets.png" />
       <p>
         Students across universities may be under the belief that the more
         difficult a course is, the more likely that professor will have a lower
@@ -122,14 +126,15 @@
         all somewhat negative, but not to the extent one may expect. For most
         colleges we see fairly mild negative correlations, ranging from -0.37 to
         -0.52, which cannot concretely denote that higher levels of difficulties
-        correlate with lower average ratings. The only expections are for Bouve
-        and Khoury, which respectively have a -0.67 and -0.20 correlation. From
-        these, we can be more confident that levels of difficulty do lead to
-        lower average ratings for the former, while there is a negligible
-        correlation for the latter. Overall, this goes to show that for a
-        majority of colleges at NEU, students should not necessarily be biased
-        towards certain professors simply because of the difficulty of the
-        course and that, one the hand, a higher rating does not necessarily
+        correlate with lower average ratings. The only expectations are for
+        Bouve and Khoury, which respectively have -0.67 and -0.20 correlations.
+        Overall, these scatterplots show that we can fairly confident that
+        levels of difficulty do not indicate lower average ratings as the plot
+        depict a negligible correlation and an even poorer R^2, showing that the
+        linear regression model does not encapsulate the data well. This
+        highlights that for a majority of colleges at NEU, students should not
+        necessarily be biased towards certain professors simply because of the
+        difficulty of the course and that a higher rating does not necessarily
         signify that a professor is teaching an easier course.
       </p>
     </div>
@@ -137,14 +142,14 @@
     <div class="chart-container">
       <h2>
         Sentiment Score vs Average Rating for Professors from Northeastern
-        Colleges (20+ Ratings)
+        Colleges (5+ Ratings)
       </h2>
       <div id="scatterplot-individual" class="chart"></div>
       <p>
         Our college professor scatter plot displays the relationship between
         sentiment scores and average ratings for professors across different
         colleges at Northeastern University. Each point represents a professor
-        with at least 20 ratings, color-coded by their respective college. There
+        with at least 5 ratings, color-coded by their respective college. There
         is a strong positive correlation between sentiment scores and average
         ratings. This trend suggests that professors with a more positive
         sentiment in their reviews generally receive higher average ratings.
@@ -161,25 +166,29 @@
 
     <div class="chart-container">
       <h2>
-        Average Position of Sentiment Score vs Average Rating per Northeastern
-        College
+        Boxplot of Average Ratings for Professors from Different Northeastern colleges
       </h2>
-      <div id="scatterplot-averages" class="chart"></div>
+      <img class="chart-img" src="graphs/box_plot.png" />
       <p>
-        Our college averages scatter plot summarizes the average sentiment score
-        and average rating for each college at Northeastern University. Similar
-        to the first graph, there is a positive trend between the average
-        sentiment score and average rating. Bouve College of Health Sciences has
-        one of the highest average ratings (~3.85) and a relatively high
-        sentiment score (~0.18), indicating a positive approval by many
-        students. College of Science and D'Amore-McKim School of Business have
-        moderate ratings and sentiment scores, clustered around 3.4 to 3.6
-        ratings and ~0.15 sentiment score. Khoury College of Computer Sciences
-        and School of Law have the lowest average ratings and sentiment scores
-        among the colleges displayed. An Unknown category has been included,
-        with a relatively high rating and sentiment score. This category might
-        have represented professors not formally associated with a single
-        college or courses offered across multiple disciplines.
+        The boxplots above highlight the distribution of average ratings for
+        professors at Northeastern's colleges. As we can see, a vast majority of
+        colleges seem to have approximately equal distributions, this is most
+        evident in the first five boxplots (from DMSB to CAMD), where the IQR
+        lies in between 3.0 and 4.5, and the median lies at approximately 3.7.
+        However, we do so see some slight differences for the last 3 colleges.
+        Khoury and the COS have more spread out distributions (as shown by their
+        wider IQRs) that are centered at lower medians (approximately 3.4 for
+        Khoury and 3.5 for COS). On the other hand, CPS has a more concentrated
+        distribution, highlighted by its smaller IQR and shorter tails, with a
+        median that is higher than the rest of Northeastern colleges, although
+        only by a small margin, laying right below the 4.0 level. Overall, the
+        main takeaway from these histograms is that average ratings for
+        Northeastern professors lay on the upper half of the 1-5 average rating
+        scale on Rate My Professor. Of course, these distributions do not
+        exemplify a "ranking" of Northeastern colleges but, it most definitely
+        can help guide students in seeing how professor ratings are distributed
+        when aggregated, which can have an influence on what they decide to
+        study.
       </p>
     </div>
 
@@ -261,6 +270,6 @@
     <script src="graphs/graphs1.js"></script>
     <script src="graphs/graphs2.js"></script>
     <script src="graphs/graphs3.js"></script>
-    <script src="graphs/graphs45.js"></script>
+    <script src="graphs/graphs4.js"></script>
   </body>
 </html>
